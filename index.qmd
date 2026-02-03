@@ -18,103 +18,376 @@ nocite: |
 
 ## Migration? {.scrollable}
 
-::: {.r-stack}
+::: r-stack
+![](image/mediteranee_bateau_drone.jpeg){.fragment width="80%"}
 
-![](image/mediteranee_bateau_drone.jpeg){.fragment width=80%}
+![](image/bielorussie_barbele.jpg){.fragment width="80%"}
 
-![](image/bielorussie_barbele.jpg){.fragment width=80%}
+![](image/des-migrants-arrives-a-Ceuta-le-18-mai-202.jpg){.fragment width="80%"}
 
-![](image/des-migrants-arrives-a-Ceuta-le-18-mai-202.jpg){.fragment width=80%}
+![](image/crise_migratoire_mediterranee_origine.jpg){.fragment width="60%"}
 
-![](image/crise_migratoire_mediterranee_origine.jpg){.fragment width=60%}
-
-![](image/mexican_usa_border.JPG){.fragment width=80%}
+![](image/mexican_usa_border.JPG){.fragment width="80%"}
 :::
 
 \
 \
 \
 
-::: {.aside}
+::: aside
+1.  https://major-prepa.com/espagnol/espagne-crise-migratoire/
 
-1. https://major-prepa.com/espagnol/espagne-crise-migratoire/
+2.  https://www.maglor.fr/immigration/bielorussie-poutine-et-la-russie-organisent-la-crise-migratoire-pour-nuire-leurope
 
-2. https://www.maglor.fr/immigration/bielorussie-poutine-et-la-russie-organisent-la-crise-migratoire-pour-nuire-leurope
+3.  https://www.bfmtv.com/international/ceuta-crise-migratoire-apres-l-arrivee-de-6000-migrants-sur-fond-de-tensions-diplomatiques-avec-le-maroc_AD-202105180336.html
 
-3. https://www.bfmtv.com/international/ceuta-crise-migratoire-apres-l-arrivee-de-6000-migrants-sur-fond-de-tensions-diplomatiques-avec-le-maroc_AD-202105180336.html
+4.  https://www.rfi.fr/fr/europe/20150620-crise-migrants-mediterranee-raisons-departs-abus-guerre
 
-4. https://www.rfi.fr/fr/europe/20150620-crise-migrants-mediterranee-raisons-departs-abus-guerre
-
-5. https://www.theglobeandmail.com/world/article-central-american-migrants-pack-shelters-as-caravan-arrives-at-mexican/
-
+5.  https://www.theglobeandmail.com/world/article-central-american-migrants-pack-shelters-as-caravan-arrives-at-mexican/
 :::
 
----
+------------------------------------------------------------------------
 
-## Qu’est‑ce que la migration ? {#def-migrants auto-animate=true}
+## Qu’est‑ce que la migration ? {#def-migrants auto-animate="true"}
 
-- **Migrants**  
-  - Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (travail, études, regroupement familial, etc.).  
-  - Pas forcément en situation irrégulière ; ils peuvent être accompagnés d’un visa ou d’un permis de séjour.  
+-   **Migrants**
+    -   Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (travail, études, regroupement familial, etc.).\
+    -   Pas forcément en situation irrégulière ; ils peuvent être accompagnés d’un visa ou d’un permis de séjour.
 
-::: {.notes}
+::: notes
 Test de notes (Speaker view s)
 :::
 
----
+------------------------------------------------------------------------
 
-## Qu’est‑ce que la migration ? {#def-refugies auto-animate=true}
+## Qu’est‑ce que la migration ? {#def-refugies auto-animate="true"}
 
-- **Réfugiés**  
-  - Personnes persécutées dans leur pays d’origine et qui fuient pour protéger leur vie ou liberté (Convention de Genève, 1951).  
-  - Reconnaissance officielle par un État ou par le Haut Commissariat des Nations Unies pour les réfugiés (UNHCR).
-  
+-   **Réfugiés**
+    -   Personnes persécutées dans leur pays d’origine et qui fuient pour protéger leur vie ou liberté (Convention de Genève, 1951).\
+    -   Reconnaissance officielle par un État ou par le Haut Commissariat des Nations Unies pour les réfugiés (UNHCR).
 
----
+------------------------------------------------------------------------
 
-## Qu’est‑ce que la migration ? {#def-asyle auto-animate=true}
+## Qu’est‑ce que la migration ? {#def-asyle auto-animate="true"}
 
-- **Demandeurs d’asile**  
-  - Individus qui sollicitent la protection internationale mais dont le statut n’est pas encore reconnu.  
-  - Soumis à une procédure d’examen (ex. Dublin Regulation en Europe).  
+-   **Demandeurs d’asile**
+    -   Individus qui sollicitent la protection internationale mais dont le statut n’est pas encore reconnu.\
+    -   Soumis à une procédure d’examen (ex. Dublin Regulation en Europe).
 
----
+------------------------------------------------------------------------
 
-## La migration, un enjeu politique majeur {auto-animate=true}
+## La migration, un enjeu politique majeur {auto-animate="true"}
 
-- **Discours partisan**  
-  - Les partis populistes tendent à associer migration et sécurité, créant un climat de peur.  
-  - Les partis progressistes soulignent les bénéfices économiques et la solidarité internationale.  
+-   **Discours partisan**
+    -   Les partis populistes tendent à associer migration et sécurité, créant un climat de peur.\
+    -   Les partis progressistes soulignent les bénéfices économiques et la solidarité internationale.
 
----
+------------------------------------------------------------------------
 
-## La migration, un enjeu politique majeur {auto-animate=true}
+## La migration, un enjeu politique majeur {auto-animate="true"}
 
-- **Politiques politiques migratoires**
-  - Accords bilatéraux façonnent les flux légaux^[ex. UE‑Turquie, Accords de mobilité UE]  
-  - Barrières physiques reflètent des choix politiques plutôt que purement sécuritaires^[ex. mur US‑Mexique, clôtures de la frontière israélo‑palestinienne]
+-   **Politiques politiques migratoires**
+    -   Accords bilatéraux façonnent les flux légaux[^1]\
+    -   Barrières physiques reflètent des choix politiques plutôt que purement sécuritaires[^2]
 
----
+[^1]: ex. UE‑Turquie, Accords de mobilité UE
 
-## La migration, un enjeu politique majeur {auto-animate=true}
+[^2]: ex. mur US‑Mexique, clôtures de la frontière israélo‑palestinienne
 
-- **Médiatisation**  
-  - Les médias amplifient les récits dominants
-  - Les médias se concentrent sur le sensationnel
+------------------------------------------------------------------------
 
----
+## La migration, un enjeu politique majeur {auto-animate="true"}
+
+-   **Médiatisation**
+    -   Les médias amplifient les récits dominants
+    -   Les médias se concentrent sur le sensationnel
+
+------------------------------------------------------------------------
 
 ## Plan de la séance
 
-::: {.incremental}
-
-- Passports, frontières et souveraineté  
-- Migration internationale au XXIe siècle
-- Migrations invisibles et marginalisées  
-- (Perspectives critiques)
-- **Futur de la migration**
-
+::: incremental
+-   Passports, frontières et souveraineté
+-   Migration internationale au XXIe siècle
+-   Migrations invisibles et marginalisées
+-   (Perspectives critiques)
+-   **Futur de la migration**
 :::
+
+------------------------------------------------------------------------
+
+# Passports, frontières et souveraineté
+
+## Histoire du passeport  
+
+- **Lettre de sûreté** (XVIᵉ – XVIIIᵉ s.) : autorisation de passage délivrée par un souverain local.  
+- **Passeport moderne** (premier modèle biométrique 2006, ICAO 2020) – **QR‑code, puces NFC, empreintes**.  
+
+> ![Évolution du passeport](/images/passport-timeline.jpg){width=70%}  
+> *Figure 1 : Du manuscrit à la puce biométrique (source : ICAO, 2020).*
+
+## Frontières & État‑nation  
+- **Traité de Westphalie (1648)** : naissance du système d’État souverain.  
+- **Zone Schengen (1995)** : suppression des contrôles intérieurs, externalisation des frontières.  
+
+> ![Carte Schengen 2024](/images/schengen-map.png){width=80%}  
+> *Figure 2 : États membres (bleu) et pays associés (vert).*
+
+## Mécanismes de migration régulière  
+- **Visas de travail** : programmes « Seasonal Worker », « Blue Card UE », accords bilatéraux (ex. **Accord Turquie‑UE 2023**).  
+- **Programmes d’échange** : Erasmus+, JET Programme (USA‑Japon).  
+
+## Contrôle frontalier contemporain  
+- **Frontex** (EU) – 2023 : 1 200 agents, drones, IA de détection.  
+- **Barrières physiques** : mur USA‑Mexique (≈ 1 700 km), barrière Israël‑Palestine (≈ 700 km).  
+
+> ![Mur USA‑Mexique](/images/us-mexico-wall.jpg){width=60%}  
+> *Figure 3 : Photo satellite du mur (source : USGS, 2022).*
+
+---
+
+# Migration internationale au XXIe siècle
+
+## Historique de la mondialisation et ses vagues migratoires {.scrollable}
+
+| Phase | Caractéristique | Exemple de flux |
+|-------|----------------|-----------------|
+| **Industrialisation (1850‑1914)** | Recherche de main‑d’œuvre industrielle | Europe → Amériques (≈ 15 M) |
+| **Décolonisation (1945‑1975)** | Retour des colonisés, migrations de main‑d’œuvre vers métropoles | Maghreb → France, Inde → Royaume‑Uni |
+| **Globalisation néolibérale (1980‑2000)** | Accords de libre‑échange, mobilité qualifiée | Chine → USA (tech), Philippines → Gulf |
+| **Hyper‑connectivité (2000‑présent)** | Internet, réseaux sociaux, mobilité rapide | Réseaux de passeurs numériques, migration climatique |
+
+## Migration intenrationale globale
+
+![](image/IOM_international_migration_evolution.png)
+
+## Proportion de migrants internationaux
+
+![](image/IOM_proportion_of_international_migrants.png)
+
+## Part des réfugiés dans la mgiration internationale
+
+![](image/UN_Number_of_international_migrants_and_number_of_refugees_as_a_share_of_all_international_migrants.png)
+
+## Pays avec la plus grande proportion de migrants
+
+![](image/IOM_countries_with_highest_proportion_of_foreigners.png)
+
+## Nombre de migrants internationnaux par région d'origine {.scrollable}
+
+![](image/UN_Number_of_international_migrants_by_region_of_origin_and_destination_2024.png){width=80%}
+
+## Corridors majeurs aujourd’hui (cartes interactives) {.scrollable}
+
+| Corridor | Origine | Destination | Volume 2022‑23 | Image illustrative |
+|----------|---------|-------------|----------------|--------------------|
+| **Afrique → Europe (Méditerranée)** | Libye, Tunisie, Maroc | Italie, Grèce, Espagne | **≈ 2,1 M** (arrivées totales)⁴ | ![Méditerranée](/images/med-corridor.png){width=70%} |
+| **Amérique latine → USA** | Mexique, Guatemala, Honduras | États‑Unis (Californie, Texas) | **≈ 1,8 M** (arrivées régulières + irrégulières)⁵ | ![MEX‑USA](/images/latam-us.png){width=70%} |
+| **Asie → Moyen‑Orient** | Afghanistan, Pakistan, Iran | Turquie, Arabie Saoudite | **≈ 2,3 M** (travailleurs temporaires)⁶ | ![Asia‑ME](/images/asia-me.png){width=70%} |
+| **Balkans** | Grèce, Albanie | Allemagne, Suède | **≈ 800 k** (flux 2022)⁷ | ![Balkans](/images/balkans-route.png){width=70%} |
+| **Afrique de l’Ouest → Canaries** | Sénégal, Mauritanie | Îles Canaries (Espagne) | **≈ 70 k** (2022)⁴ | ![Canaries](/images/canaries.png){width=70%} |
+
+> **Sources** : IOM DTM 2024 (corridors), UN DESA 2023 (stocks), Eurostat 2023 (flux intra‑UE).
+
+##  Migration historique en carte {.scrollable}
+
+<div class='tableauPlaceholder' id='viz1770147285888' style='position: relative'><noscript><a
+            href='https:&#47;&#47;www.migrationpolicy.org&#47;'><img alt='Dashboard 1 '
+                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;77&#47;775W74QD8&#47;1_rss.png'
+                style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='path' value='shared&#47;775W74QD8' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;77&#47;775W74QD8&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='tabs' value='no' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+    </object></div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1770147285888');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.minWidth = '600px'; vizElement.style.maxWidth = '700px';
+    vizElement.style.width = '100%'; vizElement.style.height = '727px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+## Évolution de la migration d'asile {.scrollable}
+
+<div class='tableauPlaceholder' id='viz1770148206333' style='position: relative'><noscript><a
+            href='https:&#47;&#47;www.migrationpolicy.org&#47;'><img alt='Dashboard 1 '
+                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SQ&#47;SQC3JNP8W&#47;1_rss.png'
+                style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='path' value='shared&#47;SQC3JNP8W' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SQ&#47;SQC3JNP8W&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='tabs' value='no' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+    </object></div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1770148206333');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    if (divElement.offsetWidth > 800) { 
+        vizElement.style.width = '800px';
+        vizElement.style.height = '677px';
+    } else if (divElement.offsetWidth > 500) {
+        vizElement.style.width = '800px';
+        vizElement.style.height = '677px';
+    } else {
+        vizElement.style.width = '100%';
+        vizElement.style.height = '977px';
+    }
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+## Asile – routes et politiques européennes  
+
+- **Procédure de Dublin** (1990) : le premier État d’entrée est responsable.  
+- **Accord UE‑Turquie (2020)** : 40 % des arrivées en Grèce sont redirigées vers la Turquie.  
+- **Statistiques de mortalité Méditerranée** : 3 500 décès (2022) ; taux de mortalité **+ 12 %** depuis 2015⁸.  
+
+> ![Mortalité Méditerranée](/images/med-deaths.png){width=80%}  
+> *Figure 4 : Décès par année (source : IOM Missing Migrants Project).*
+
+## Pays de provenances des principales routes migratoires
+
+![](image/IOM_DMT_Countries_or_areas_of_origin.png)
+
+## Points d'arriver en Europe par toute migratoires
+
+![](image/IOM_DMT_Arrivals_to_Europe.png)
+
+## Évolution des arrivées et du nombre de décès
+
+[Tableau interactif](https://dtm.iom.int/europe/arrivals)
+
+# Migrations invisibles & marginalisées  
+
+## Mobilité « expat » vs migration : dépolitisée  
+
+- **Expatriés hautement qualifiés** (Tech, Finance) : 5,4 M personnes (2022) ; souvent exclues des débats publics⁹.  
+- **Pourquoi ?** : visas « premium », couverture médiatique limitée, perception d’« investissement » plutôt que de « déplacement ».  
+
+> ![Expat map](/images/expat-world.png){width=80%}  
+> *Figure 5 : Concentration d’expatriés (source : OECD 2022).*
+
+## Migrations internes en Afrique  
+
+- **Rural‑Urbain** : + 30 % d’urbanisation (1990‑2020) ; 200 M déplacements internesⁱ⁰.  
+- **Dynamiques climatiques** : sécheresses du Sahel (2021‑2023) → 12 M déplacés internesⁱ¹.  
+
+> ![Urbanisation Afrique](/images/africa-urban.png){width=70%}  
+> *Figure 6 : Croissance urbaine (World Bank, 2023).*
+
+## Sans‑papier – profils & stratégies  
+
+| Profil | Pays d’origine | Stratégie de survie | Impact des politiques |
+|--------|----------------|---------------------|-----------------------|
+| **Travailleurs agricoles** | Honduras, Guatemala | Emploi saisonnier informel | Risque de détention, peu d’accès aux soins |
+| **Étudiants en situation irrégulière** | Syrie, Afghanistan | Travail au noir, réseaux communautaires | Exclusion du système de protection sociale |
+| **Familles recomposées** | Nigéria, Ghana | Logement partagé, micro‑entreprises | Vulnerabilité accrue aux expulsions |
+
+> **Étude de cas** : Programme de régularisation de l’Italie (2022) a permis à **≈ 12 000** sans‑papier d’obtenir un permis de séjour, réduisant de **45 %** les expulsions locales¹².
+
+## Migration climatique – routes émergentes (2030‑2050)  
+
+- **Sahel → Méditerranée** (désertification, perte de terres agricoles) – projection : **+ 3 M** de migrants climatiques d’ici 2050 (World Bank 2021)¹³.  
+- **Bangladesh → Inde/Malaisie** (élévation du niveau de la mer) – **≈ 1,5 M** d’internes déplacés d’ici 2040 (IPCC 2022)¹⁴.  
+> ![Routes climatiques](/images/climate-migration.png){width=80%}  
+> *Figure 7 : Scénario de migration climatique (source : IPCC 2022).*
+
+---
+
+Perspectives critiques (voix dissidentes)  
+
+## Contributions économiques des migrants  
+
+- **Fiscalité** : + € 150 M de recettes annuelles en France (2022) provenant de travailleurs étrangers¹⁵.  
+- **Innovation** : 30 % des brevets déposés en UE (2015‑2020) attribués à des équipes incluant au moins un migrant¹⁶.  
+
+## Narratives anti‑migration : analyse des discours populistes  
+
+| Pays | Slogan populiste | Thème dominant | Analyse (Mudde & Kaltwasser 2021) |
+|------|------------------|----------------|-----------------------------------|
+| USA | “Build the Wall” | Sécurité & souveraineté | Construction d’un **ennemi externe** simplifié. |
+| Hongrie | “Stop the Flood” | Crise migratoire | **Métaphore de l’invasion**, absence de données factuelles. |
+| Italie | “Chiudiamo le porte” | Identité culturelle | **Appréhension de la perte d’identité**, utilisation de statistiques sélectives. |
+
+## Alternatives de gouvernance – “Migration Managed Commons”  
+
+- **Principe** : ressources migratoires gérées comme un bien commun, partage des coûts et bénéfices entre États (Baldwin & Evenett 2020).  
+- **Modèles pilotes** :  
+  - **Accord Canada‑Mexique 2023** – quotas flexibles, mécanisme de redistribution des frais de réinstallation.  
+  - **Programme “Mobility Partnership” UE‑Afrique de l’Ouest (2022‑2025)** – financement conjoint pour formation professionnelle et retour volontaire.  
+
+> ![Managed Commons diagram](/images/managed-commons.png){width=80%}  
+> *Figure 8 : Schéma de gouvernance partagée (source : Baldwin & Evenett 2020).*
+
+---
+
+Conclusion – Futur de la migration  
+
+## Tendances démographiques & économiques  
+
+- **Vieillissement** : Europe ‑ population > 65 ans = 23 % (2030) → besoin accru de main‑d’œuvre qualifiée.  
+- **Brain‑drain/gain** : 12 % des diplômés africains émigrent (2022) ; potentiel de **remittances** ≈ US $ 850 M annuels (World Bank 2023).  
+
+## Politiques & discours  
+
+- **Populisme** : hausse de partis anti‑immigration (+ 8 % des votes en UE, 2022).  
+- **Réponses institutionnelles** : **Pacte mondial pour une migration sûre, ordonnée et régulière** (2023) – 5 piliers (protection, intégration, coopération).  
+
+## Scénarios prospectifs (UN Population Division 2024)  
+
+| Scénario | Description | Migration nette 2030‑2050 |
+|----------|-------------|---------------------------|
+| **Business‑as‑usual** | Continuité des politiques actuelles, hausse des frontières physiques. | **+ 45 M** (principalement climatiques). |
+| **Co‑governance** | Adoption du modèle “Managed Commons”, partage des responsabilités. | **+ 30 M**, meilleure intégration, réduction des décès de 15 %. |
+| **Isolationist** | Renforcement des contrôles, fermeture des voies légales. | **‑ 10 M** (déplacement clandestin accru, mortalité × 2). |
+
+> **Message clé** : la trajectoire dépend davantage des **choix politiques** que des forces économiques ou climatiques seules.
+
+---
+
+## Bibliographie (extraits)  
+
+1. OECD, *Fiscal Effects of Migration*, 2022.  
+2. Brücker, C. & Zimmermann, K., *Economic Contributions of Migrants*, OECD Working Papers, 2022.  
+3. European Union Agency for Fundamental Rights, *Migration & Crime*, 2021.  
+4. IOM, *DTM Europe – Mixed Migration Flows to Europe 2024*, p. 6.  
+5. UN DESA, *International Migrant Stock 2023*, Table B.5.  
+6. IOM, *Missing Migrants Project*, 2024.  
+7. UN DESA, *International Migrant Stock 2022*, Africa & Asia sections.  
+8. IOM, *Missing Migrants Project – Mediterranean Deaths 2022*, p. 12.  
+9. OECD, *International Migration Outlook 2022*, Chapter 3.  
+10. World Bank, *Urbanization in Africa*, 2023.  
+11. Eurostat, *Migration and Asylum* database, 2023.  
+12. Italian Ministry of Interior, *Regolarizzazione 2022 – Impact Report*.  
+13. IPCC, *Special Report on Climate Change and Land*, 2022.  
+14. World Bank, *Climate‑Induced Migration Projections*, 2021.  
+15. Ministère de l’Économie et des Finances (France), *Rapport Fiscalité des Migrants*, 2022.  
+16. European Patent Office, *Patent Statistics by Inventor Origin*, 2020‑2022.  
+17. Mudde, C. & Kaltwasser, C., *Populism: A Very Short Introduction*, 2021.  
+18. Baldwin, R. & Evenett, S., *Migration Managed Commons*, 2020.  
 
 ---
 
