@@ -1,0 +1,126 @@
+---
+title: "Les flux migratoires et migration mondiale au 21e siècle"
+format: revealjs
+authors:
+  - name: "Hategekimana Vestin" 
+    affiliation: "Université de Genève"
+    email: "vestin.hategekimana@unige.ch"
+revealjs:
+  slideNumber: true
+  transition: slide
+  css: style.css
+bibliography: sources.bib
+nocite: |
+  @*
+---
+
+# Introduction
+
+## Migration? {.scrollable}
+
+::: {.r-stack}
+
+![](image/mediteranee_bateau_drone.jpeg){.fragment width=80%}
+
+![](image/bielorussie_barbele.jpg){.fragment width=80%}
+
+![](image/des-migrants-arrives-a-Ceuta-le-18-mai-202.jpg){.fragment width=80%}
+
+![](image/crise_migratoire_mediterranee_origine.jpg){.fragment width=60%}
+
+![](image/mexican_usa_border.JPG){.fragment width=80%}
+:::
+
+\
+\
+\
+
+::: {.aside}
+
+1. https://major-prepa.com/espagnol/espagne-crise-migratoire/
+
+2. https://www.maglor.fr/immigration/bielorussie-poutine-et-la-russie-organisent-la-crise-migratoire-pour-nuire-leurope
+
+3. https://www.bfmtv.com/international/ceuta-crise-migratoire-apres-l-arrivee-de-6000-migrants-sur-fond-de-tensions-diplomatiques-avec-le-maroc_AD-202105180336.html
+
+4. https://www.rfi.fr/fr/europe/20150620-crise-migrants-mediterranee-raisons-departs-abus-guerre
+
+5. https://www.theglobeandmail.com/world/article-central-american-migrants-pack-shelters-as-caravan-arrives-at-mexican/
+
+:::
+
+---
+
+## Qu’est‑ce que la migration ? {#def-migrants auto-animate=true}
+
+- **Migrants**  
+  - Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (travail, études, regroupement familial, etc.).  
+  - Pas forcément en situation irrégulière ; ils peuvent être accompagnés d’un visa ou d’un permis de séjour.  
+
+::: {.notes}
+Test de notes (Speaker view s)
+:::
+
+---
+
+## Qu’est‑ce que la migration ? {#def-refugies auto-animate=true}
+
+- **Réfugiés**  
+  - Personnes persécutées dans leur pays d’origine et qui fuient pour protéger leur vie ou liberté (Convention de Genève, 1951).  
+  - Reconnaissance officielle par un État ou par le Haut Commissariat des Nations Unies pour les réfugiés (UNHCR).
+  
+
+---
+
+## Qu’est‑ce que la migration ? {#def-asyle auto-animate=true}
+
+- **Demandeurs d’asile**  
+  - Individus qui sollicitent la protection internationale mais dont le statut n’est pas encore reconnu.  
+  - Soumis à une procédure d’examen (ex. Dublin Regulation en Europe).  
+
+---
+
+## La migration, un enjeu politique majeur {auto-animate=true}
+
+- **Discours partisan**  
+  - Les partis populistes tendent à associer migration et sécurité, créant un climat de peur.  
+  - Les partis progressistes soulignent les bénéfices économiques et la solidarité internationale.  
+
+---
+
+## La migration, un enjeu politique majeur {auto-animate=true}
+
+- **Politiques politiques migratoires**
+  - Accords bilatéraux façonnent les flux légaux^[ex. UE‑Turquie, Accords de mobilité UE]  
+  - Barrières physiques reflètent des choix politiques plutôt que purement sécuritaires^[ex. mur US‑Mexique, clôtures de la frontière israélo‑palestinienne]
+
+---
+
+## La migration, un enjeu politique majeur {auto-animate=true}
+
+- **Médiatisation**  
+  - Les médias amplifient les récits dominants
+  - Les médias se concentrent sur le sensationnel
+
+---
+
+## Plan de la séance
+
+::: {.incremental}
+
+- Passports, frontières et souveraineté  
+- Migration internationale au XXIe siècle
+- Migrations invisibles et marginalisées  
+- (Perspectives critiques)
+- **Futur de la migration**
+
+:::
+
+---
+
+# Merci pour votre attention!
+
+## Sources {.scrollable}
+
+::: {#refs}
+:::

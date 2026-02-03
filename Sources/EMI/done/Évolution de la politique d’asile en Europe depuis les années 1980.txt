@@ -1,0 +1,3225 @@
+Transcription for 2506012220-Mediase
+
+Ok. J'espère que vous allez bien. On va commencer un nouveau chapitre. On va parler aujourd'hui d'une migration, d'un type de migration spécifique dont on n'a pas encore beaucoup évoqué les contours.
+La migration d'asile avec un plan qui va être relativement copelé avec un contexte historique qui va mettre en évidence les changements qui ont été observés notamment dans les années 1980 en Europe par rapport à l'asile.
+Et puis on parlera assez rapidement des procédures sans entrer trop dans les détails. On évoquera aussi la volatilité des flux. Et puis après on s'intéressera à un certain nombre de caractéristiques individuelles.
+En nous reposant sur deux ouvrages qui datent un peu puisqu'ils sont parus il y a approximativement une dizaine d'années qui portaient sur la migration d'asile somalienne d'une part et en provenance de l'Afrique de l'Ouest d'autre part.
+J'en parlerai un petit peu plus dans les détails tout à l'heure. Et puis on évoquera très rapidement le cas de l'Ukraine.
+Alors d'un point de vue historique, on parle beaucoup d'asile aujourd'hui avec une vision qui est plutôt négative ou même très stigmatisante.
+Historiquement ça vaut la peine de rappeler que juste dans les années 1980, le requérant ou la requérante d'asile était considérée d'une manière très positive, notamment en Europe, ce qui a conduit à un accueil très favorable.
+Alors on retrouve en particulier derrière cette vision très positive du requérant d'asile, l'idée que ce sont des personnes qui quittent des gouvernements ou des dictatures
+contre lesquelles l'Europe était pratiquement en guerre, en tout cas en guerre froide, notamment les requérants d'asile en provenance de l'Europe de l'Est étaient considérés un petit peu comme des héros
+parce qu'ils avaient traversé les frontières. Donc on avait une vision très... pour rejoindre des pays démocratiques. Donc on avait une vision très favorable.
+Et puis on avait aussi une multitude de manières d'arriver dans le processus d'asile qui était simplifié par rapport à celui qu'on connaît.
+D'une part vous aviez des personnes qui vivaient déjà dans le pays d'accueil, par exemple le cas de la France.
+Voilà, vous aviez des communautés qui vivaient dans le pays d'accueil, des communautés par exemple yougoslaves, et puis qu'à un certain moment, lorsqu'il y a eu des troubles, eh bien, ont demandé l'asile.
+Donc il n'y avait pas ce passage, cette transition d'un pays à l'autre, c'était pas en l'occurrence des migrants, mais c'était parfois même des premières, des deuxième générations.
+La même chose pour les Vietnamiens, il y avait une communauté, par exemple, vietnamienne à Lausanne, les étudiants, dans les années 1970, il y en avait quelques ans, quelques dizaines peut-être,
+et bien, lorsqu'il y a eu la guerre du Vietnami, eh bien, ces personnes étaient déjà sur place et ont pu déposer rapidement une demande d'asile.
+Donc ça n'appliquait pas forcément un mouvement de population.
+Et puis, deuxième point, on pouvait aussi déposer à l'époque la demande d'asile dans des ambassades dans le pays d'origine, ce qui est aujourd'hui plus possible.
+Donc les ambassades se sont renfermées, donc si vous êtes dans un pays en crise, ça ne sert à rien d'aller dans l'ambassade de France ou de Suisse pour déposer une demande d'asile.
+On va vous refouler, alors que jusque dans les années 80, c'était toujours possible de le faire.
+Jusqu'au début des années 90 même, c'était possible de le faire.
+On parlera de ce qui s'est passé en Albanie en 1991, où finalement, les ambassades ont été prises d'assaut.
+Et puis là, ça réduit en quelque sorte, ça conduit plutôt à un réflexe protecteur de la part des pays du Nord,
+qui ont réduit la possibilité d'accéder à l'asile en se rendant dans les ambassades.
+Troisième élément qui se produisait, notamment pour les ressortissants d'Europe de l'Est,
+les déplacements internationaux, qui étaient extrêmement bien encadrés,
+mais il arrivait quand même assez fréquemment que des sportifs, des artistes, etc.,
+lors de déplacements internationaux, lors de Jeux Olympiques ou des compétitions, lors de festivals, etc.,
+eh bien, disparaissaient et on ne les retrouvait plus.
+Et finalement, quelques mois plus tard, réapparaissaient avec une demande d'asile.
+Donc ça, c'était une manière de faire qui aujourd'hui n'est plus vraiment possible,
+puisque la réponse des pays européens, ça a été de demander des garanties.
+Lorsque vous voulez obtenir un visa, suivant le pays où vous êtes,
+vous devez avoir un parrain dans le pays d'accueil qui va garantir que vous rentrez,
+sinon le parrain, il va avoir toute une série de problèmes.
+Et voilà, puis un dernier élément, c'est que l'asile n'était pas forcément immédiatement
+attaché à une situation de perte de sécurité.
+Et là, on a un exemple avec les réfugiés aux provenances de Hongrie en 1956,
+où on s'aperçoit que ce sont des personnes qui ont fui un pays en crise,
+un pays de l'Europe de l'Est, donc un pays communiste,
+qui ont fui en 1956 un pays en crise.
+Et puis ces personnes, eh bien, elles ont fui à un certain moment
+parce qu'elles avaient une opportunité de migrer,
+sans forcément qu'il y ait un danger pour leur vie.
+Et dernier point qui est important dans cette approche un peu historique de l'asile,
+c'est le choix du pays d'accueil, qui est aujourd'hui extrêmement limité.
+Vous connaissez probablement Dublin, lorsque vous arrivez en Italie,
+votre dossier va être prêté en Italie, point final.
+Dans le passé, ce n'était pas le cas, on avait un petit peu plus de flexibilité
+lorsqu'il fallait choisir un pays d'accueil.
+Donc ça, c'est une situation historique jusqu'à la fin des années 80,
+donc jusqu'à un durcissement des politiques d'asile,
+suite notamment à la crise de l'asile,
+avec l'arrivée de populations turques, puis yougoslaves, etc.
+Si on peut faire un petit aparté sur justement ce que je vous ai dit,
+on peut prendre une étude, c'est un mémoire de master d'un étudiant neuchâtelois
+qui s'appelait André Ponska,
+qui, enfin qui s'appelle toujours André Ponska,
+et qui a interrogé un nombre relativement limité
+de personnes réfugiées hongroises
+qui étaient arrivées en 1956 en Suisse,
+et plus particulièrement à Neuchâtel.
+Donc il avait des liens avec cette communauté,
+c'était des personnes qui avaient déjà 50 ans de présence en Suisse,
+c'était des personnes en fin de vie pratiquement.
+Alors lorsqu'on leur posait la question,
+pourquoi ils ont quitté la Hongrie,
+eh bien l'aspect sécuritaire n'apparaît pas forcément d'une manière très évidente.
+La majorité, alors il y a plusieurs réponses possibles,
+donc il y avait 35-40 personnes,
+la majorité, 42%, a dit que c'est simplement le souhait de vivre dans un pays libre,
+une part aussi importante,
+c'est-à-dire qu'ils voulaient profiter de la liberté, voyager, etc.
+Tout ce qui concerne la sécurité,
+eh bien on peut la regrouper dans la part des représailles,
+on présente une part active au soulèvement populaire
+qui a eu lieu en 1956,
+et là ça concernait 8 personnes sur une trentaine ou 35,
+donc c'est relativement minoritaire.
+Donc ici en fait on se retrouve avec une population
+qui a eu l'opportunité d'arriver en Suisse,
+mais pas toujours pour fuir un problème de sécurité,
+plutôt parce que ce sont des personnes qui ont bénéficié
+d'un certain nombre d'opportunités de migration.
+Alors la Suisse, pourquoi la Suisse ?
+Eh bien la majorité disent que la Suisse est un pays démocratique et neutre,
+ce qui a guidé leur choix.
+La possibilité de s'insérer professionnellement
+est aussi un facteur qui est important,
+de même que la possibilité de continuer à faire des études,
+et puis l'accueil en Suisse a été jugé plutôt très positif.
+Donc là aussi on se retrouve avec plutôt un choix
+qui est relativement délibéré,
+alors on n'a pas d'informations sur les alternatives possibles,
+mais ce que l'on sait, c'était des réfugiés
+qui avaient été, qui s'étaient rendus dans la région de Vienne,
+donc en Autriche,
+et qui à partir de là avaient effectué une migration secondaire
+et avaient dans une certaine mesure la possibilité de choisir
+leur pays d'accueil,
+et là en l'occurrence ils ont choisi la Suisse
+pour des questions de neutralité, de démocratie, etc.
+Les contacts, si on continue juste un petit peu avec cette enquête,
+les contacts ont été plutôt positifs,
+alors 87% disent que...
+enfin le vécu a été positif,
+87% disent qu'ils ont eu des opportunités professionnelles,
+84% relèvent un accueil favorable,
+chaleureux de la part des autorités de la population,
+allez faire la même enquête aujourd'hui,
+vous verrez que ce n'est pas 84%.
+L'organisation exemplaire dans les camps de transit en Suisse,
+80%,
+là aussi on voit que les choses ont bien changé,
+parce que si on s'intéresse aux réfugiés,
+aux requérants d'asile aujourd'hui dans les camps en Suisse,
+on n'a pas 80% de personnes
+qui déclarent une organisation exemplaire, etc.
+Il y a quand même quelques aspects négatifs,
+ce qu'on retrouve dans toutes les enquêtes
+auprès des étrangers,
+c'est les difficultés d'établir des contacts sociaux
+avec la population d'accueil,
+le manque d'aide pour faciliter l'acquisition du français,
+il y avait moins de cours qui étaient proposés,
+c'était des personnes qui se débrouillaient plutôt par elles-mêmes,
+et puis, ça c'est minoritaire,
+la tâche excessive des Neuchâtelois aux biens matériels.
+Donc voilà le vécu de l'asile à la fin des années 1950.
+Bon, après 50 ans de présence en Suisse,
+c'est possible qu'on ait gommé un petit peu,
+que ces personnes aient gommé un petit peu
+les aspects les plus défavorables,
+mais on a quand même une enquête qui montre des résultats
+qui sont assez surprenants aujourd'hui.
+Je vous ai mis aussi quelques éléments sur le printemps de Prague
+qui a concerné, je crois, 18 000, quelque chose comme ça,
+personnes du domaine de l'asile,
+donc des réfugiés tchécoslovaques,
+puisqu'à l'époque, la Tchéquie et la Slovaquie
+représentaient un seul pays.
+Je vous laisse lire, regarder ce témoignage.
+C'est juste pour mettre en évidence le fait que,
+justement, ces personnes quittaient des pays
+sous domination de l'URSS, sous régime communiste,
+et puis là-dessus, c'était profondément anticommuniste.
+Donc voilà, en fait, ces personnes étaient considérées
+comme des gens à accueillir,
+et puis effectivement, elles étaient bien accueillies.
+D'autant plus que pour ce qui concerne les Tchécoslovaques,
+alors si on regarde les différentes études qui ont été effectuées,
+ou différents articles qui ont été effectués
+sur les Tchécoslovaques en Suisse,
+bien, c'était une population extrêmement qualifiée,
+majoritairement universitaire,
+donc avec des outils, en quelque sorte,
+pour s'insérer sur le marché du travail,
+la capacité d'intégration était considérée comme rapide.
+C'est des personnes qui avaient fermé la porte,
+ils ne pensaient pas que le mur de Berlin
+allait s'écraser ou disparaître un jour,
+ils ne pensaient pas que les éléments politiques,
+la situation politique allait s'améliorer,
+donc ils étaient là pour reconstruire,
+en quelque sorte, une nouvelle vie,
+en laissant de côté la vie passée,
+donc ça, ça favorise, bien entendu,
+l'intégration, que ce soit structurelle
+ou socio-culturelle.
+Donc voilà, quittons régime ennemi,
+ça j'ai déjà dit,
+donc 15 000 qui sont arrivés en Suisse,
+dans une période qui était plutôt favorable aussi économiquement,
+donc la situation du marché du travail permettait
+une intégration qui était plutôt réussie,
+et finalement, 70 à 80 % de ces personnes
+se sont naturalisées,
+donc également une sorte de reflet
+de l'intérêt de cette population pour la Suisse.
+Donc elles se sont naturalisées,
+lorsqu'on pose la question dans nos enquêtes
+sur les motifs de la naturalisation,
+à ce genre de personnes,
+ce sont des motifs qui sont purement symboliques,
+c'est-à-dire l'attachement à la Suisse,
+la volonté de participer, etc.,
+et beaucoup moins des motifs pratiques
+comme le fait de garantir son statut de séjour, etc.
+Donc voilà, on en était là,
+je ne vais pas rentrer trop dans les détails d'autres flux,
+il y a encore eu les flux des Vietnamiens
+au début des années 1980,
+des images horribles, etc.,
+et puis un accueil en Europe
+qui est très fortement favorable à cette population.
+Et à ce moment-là, ça se passait aussi,
+peut-être que je ne l'ai pas encore précisé,
+mais ça se passait dans les camps de réfugiés,
+donc aux frontières,
+où les pays arrivaient
+et puis décidaient de prendre avec eux
+20 000 personnes pour la France,
+15 000 pour la Suisse,
+100 000 pour les États-Unis, etc.
+Donc on allait, en quelque sorte,
+dans les camps de transit,
+chercher des populations,
+simplement parce qu'il y avait une solidarité internationale
+qui était relativement forte.
+Ça s'est fait encore au début des années 2000,
+je me souviens d'une conseillère fédérale
+qui était partie,
+je ne sais pas si c'était Madame Calmiré
+qui était partie au Kosovo
+et qui était revenue avec quelques enfants.
+Aujourd'hui, c'est le concept
+d'aller chercher des personnes,
+faire une opération de communication,
+arriver avec des enfants,
+c'est complètement dépassé
+puisque l'asile aujourd'hui
+est un phénomène qui s'organise
+d'une manière extrêmement individuelle.
+Voilà.
+Donc dès les années 80,
+ça se modifie simplement
+parce que les pays européens
+ont le sentiment de perdre
+le contrôle des flux d'asile,
+notamment par la mobilité accrue.
+C'est-à-dire que de plus en plus,
+on voit des personnes arriver
+par leur seul,
+de manière totalement autonome,
+donc ils arrivent aux frontières, etc.
+Ils rentrent dans les frontières,
+ils arrivent aux aéroports
+par différentes manières
+et puis finalement,
+les États européens se rendent compte
+que justement,
+cette situation d'organisation,
+on va dire,
+multinationale de l'asile
+où chacun et chacune des pays
+va chercher un certain nombre de réfugiés,
+eh bien, devient dépassée
+puisqu'il y a des personnes
+qui arrivent sans qu'elles soient invitées.
+donc des mobilités accrues
+qui entraînent en perte,
+sans sentiment en tout cas,
+de perte de contrôle des flux.
+Donc, on commence à fermer l'asile.
+En août, comme je l'ai dit,
+vous avez la crise des ambassades
+et des ports,
+notamment en Albanie.
+Donc, la prise d'assauts d'ambassades
+qui a provoqué des situations difficiles
+à gérer,
+notamment pour l'Italie,
+puisque c'était en particulier
+l'ambassade italienne
+qui était prise d'assaut en Albanie.
+Donc, on voyait des personnes
+arriver dans les ambassades,
+franchir les murs, etc.
+Une fois que vous êtes au sein,
+à l'intérieur de l'ambassade,
+vous êtes à l'intérieur du pays,
+en quelque sorte.
+On ne peut pas vous renvoyer.
+Donc, ça, ça a créé justement
+ce renfermement également
+des ambassades.
+Donc, la possibilité,
+depuis le début des années 90,
+de poser une demande d'asile
+dans les ambassades.
+Et puis, il y a aussi la question
+de la diversité des régions d'arrivée.
+Jusqu'à dans le passé,
+donc jusqu'au début des années 80,
+eh bien, celles et ceux
+qui fuyaient les régimes communistes,
+à l'exception peut-être
+de certains requérants d'asile
+de l'Amérique latine.
+Mais la majorité d'entre eux,
+eh bien, fuyaient des régimes communistes,
+donc fuyaient l'ennemi.
+Et puis, finalement,
+dans les années 80,
+il y a eu une diversification
+des populations qui arrivent,
+notamment l'extension
+de certains flux migratoires
+liées à des conflits en Afrique,
+en Asie également.
+Donc, on se retrouve
+avec des populations
+qui n'ont plus le même profil.
+Et les pays,
+à partir de 1985-1986,
+commencent à prendre au sérieux
+l'asile qui, dans le passé,
+donc avant 1985,
+n'était absolument pas monitoré.
+Si vous cherchez, par exemple,
+des chiffres sur l'asile en Suisse
+pour les années 70,
+vous avez que des estimations,
+celles que j'ai données,
+15 000 ou 18 000 tchécoslovaques,
+etc., 20 000 vietnamiens.
+À partir de 1985,
+on a mis en place
+dans les pays européens
+des manières de contrôler l'asile,
+donc des enregistrements
+des personnes qui demandent l'asile,
+etc., etc.
+Donc, voilà.
+Ce qui a entraîné
+des tendances diverses,
+les pressions sécuritaires
+augmentent,
+les frontières se ferment
+parce qu'on a une sorte
+de peur de l'asile.
+Et à partir du moment
+où les frontières se ferment,
+on criminalise,
+en quelque sorte,
+les personnes
+qui arrivent malgré tout.
+Donc, on va essayer
+de les stigmatiser
+dans une certaine mesure.
+Et puis, on se rend compte
+à partir des années 1990,
+c'est la création
+d'Internet, etc.,
+que la communication
+parmi les groupes
+potentiellement de réfugiés,
+notamment au début
+des années 2000,
+augmente très rapidement.
+Ce qui fait que,
+même s'il y a une diminution
+des opportunités migratoires
+parce qu'on ferme
+les frontières,
+on ferme les ambassades,
+etc.,
+eh bien, on s'aperçoit
+que les requérants d'asile,
+enfin, les candidats au départ,
+savaient exactement
+où aller.
+On a vu qu'il y a
+des réactivités assez fortes
+par rapport
+aux politiques d'asile.
+On a, par exemple,
+une étude qui a été faite
+entre,
+comparative entre la Suisse
+et la Suède,
+qui montre que,
+chaque fois que la Suède
+durcit la politique d'asile,
+eh bien,
+le flux de réfugiés diminue.
+Par contre,
+il augmente dans d'autres pays
+comme la Suisse.
+Et lorsque la Suisse
+durcit à son tour,
+eh bien,
+les flux migratoires
+se modifient de nouveau.
+On va ne pas aller en Suisse,
+mais on va aller
+plutôt en Suède.
+Donc, on a une étude
+qui avait été réalisée,
+je pense,
+autour de 1995,
+qui montre ce phénomène,
+cette réactivité
+des populations réfugiées
+par rapport
+aux politiques d'asile.
+On le voit aussi
+à partir de 2015
+où l'ouverture,
+dans une certaine mesure,
+de l'Allemagne
+aux populations réfugiées
+a conduit
+à l'arrivée
+de personnes
+qui,
+normalement,
+auraient dû être
+en Suisse.
+Par exemple,
+des Érythréens,
+ils ont modifié
+leur parcours
+pour se rendre
+en Allemagne
+parce que tout à coup,
+c'est devenu plus facile
+pour eux.
+Donc, il y a
+des moyens de communication
+qui se sont beaucoup
+améliorés.
+Mais, malgré tout,
+l'asile,
+c'est une prise
+de risque importante
+avec toute une série
+de problèmes
+ou de drames
+qui peuvent aboutir
+parce que l'asile,
+dans la majorité des cas,
+c'est une décision
+qui correspond
+à une fuite,
+en quelque sorte.
+On n'est plus en sécurité
+dans d'autres pays.
+On n'a pas forcément
+toujours le temps
+d'organiser un déplacement.
+Donc,
+les risques,
+ce sont des risques
+d'extorsion,
+de violence,
+de trafic.
+Je donnerai tout à l'heure
+Il y a une vidéo
+qui est très intéressante
+et très dure aussi
+sur la migration
+érythréenne.
+Donc,
+la traversée
+du désert du Sinaï
+avec des prises
+d'otages,
+des meurtres,
+etc.
+Il y a des refoulements
+dans les pays traversés.
+Et puis,
+finalement,
+alors même que
+les règlements
+internationaux
+sur l'asile
+parlent
+de sécurité,
+on se rend compte
+que les recueillants
+d'asile
+n'ont pas accès
+à une sécurité
+qui est suffisante.
+Voilà.
+Donc,
+si on prend peut-être
+le cas spécifique
+de la Suisse,
+mais c'est aussi
+le cas de l'Allemagne,
+un petit peu moins
+de la France,
+également de l'Autriche,
+mais l'Autriche
+a moins tiré
+des réfugiés,
+eh bien,
+on peut dire
+que les 30 dernières années
+ont été caractérisées
+par différents flux
+que vous connaissez
+probablement.
+Donc,
+début des années 90,
+première vague
+en provenance
+de l'ex-Yougoslavie
+avec la guerre
+de l'Yougoslavie
+qui a entraîné,
+selon un certain nombre
+d'études
+qui sont en cours.
+Donc,
+il y a un projet
+notamment du Fonds national
+qui essaye
+de mesurer l'impact
+de cette première vague,
+eh bien,
+un choc relativement faible
+sur le marché
+du travail en Suisse.
+Et là,
+c'était facilement
+100 000 personnes
+qui sont arrivées
+du Serbie,
+de Bosnie,
+de Croatie,
+etc.,
+pratiquement au même moment.
+Donc,
+100 000 personnes,
+certains policiales
+se diront
+que c'est la taille
+de la ville de Saint-Gaël,
+ça ne passe pas inaperçu.
+Eh bien,
+finalement,
+sur le marché du travail,
+les études montrent
+qu'il y a effectivement
+eu un petit choc
+au niveau d'adaptation,
+une augmentation
+du chômage,
+une éventuelle concurrence
+entre les arrivants
+et la population native
+pour certaines activités
+faiblement qualifiées,
+mais le choc,
+il a été relativement
+bien absorbé.
+Donc,
+première vague.
+Deuxième vague,
+fin des années 90,
+avec la guerre du Kosovo,
+l'arrivée
+de ressortissants
+du Kosovo,
+l'arrivée massive
+de ces ressortissants,
+je pense qu'il y en avait
+20 000 en Suisse,
+mais je ne suis pas sûr
+du nombre.
+Et puis,
+départ,
+ces populations,
+elles sont reparties,
+pas toutes,
+mais un certain nombre,
+une proportion assez importante,
+et reparties
+à la fin de la guerre.
+Donc,
+on a une deuxième vague migratoire
+qui a eu des effets
+également relativement limités
+à court terme,
+dans la mesure où,
+justement,
+c'était une arrivée
+qui a été accompagnée
+d'un départ.
+Donc,
+il y a eu une prise en charge
+qui a été nécessaire
+au moment de l'arrivée
+de cette population,
+mais finalement,
+sur le long terme,
+il y a eu relativement
+peu d'impact,
+même si la population
+kosovare en Suisse
+reste quand même
+relativement importante.
+Voilà,
+mais cette population
+kosovare,
+elle a aussi grandi
+par le biais
+des mouvements naturels,
+donc les naissances,
+les mariages,
+etc.
+Vers 2015,
+comme vous le savez,
+cette plus récente
+crise migratoire
+avec la Syrie,
+et puis la Suisse
+a eu des flux
+relativement modestes,
+alors pourquoi
+parce que,
+notamment,
+les Syriens
+n'avaient peu
+de lien avec la Suisse,
+tandis que c'était
+le cas,
+par exemple,
+des ex-Yougoslavs
+de Kosovar.
+La Suisse
+était un pays
+d'immigration
+dès les années 70
+pour les ouvriers,
+les travailleurs
+de l'ex-Yougoslavie,
+donc il y avait
+des personnes
+qui étaient déjà là,
+des cousins,
+etc.
+Donc ça peut favoriser
+le choix du pays
+d'accueil,
+relativement favorable
+à l'arrivée
+des étrangers
+pour des questions
+simplement démographiques
+parce que cette dame
+s'est rendue compte
+que l'Allemagne
+vieillissait.
+Donc les flux
+migratoires
+en 2015
+pour la Suisse
+sont relativement modestes
+mais ont été
+très importants
+en Europe.
+Et puis,
+2022,
+guerre en Ukraine,
+70 000 personnes
+arrivent en Suisse
+et il va y avoir
+approximativement
+selon les statistiques
+80 000 personnes
+domiciliées
+au moment de la guerre
+en Ukraine
+qui vivent en Suisse.
+Elles ne sont pas
+toutes ukrainiennes,
+il y a d'autres
+populations
+qui sont arrivées
+suite à la guerre
+en Ukraine,
+donc des immigrés
+en Ukraine,
+notamment des étudiants
+qui sont arrivés
+en Suisse,
+ce qui a permis
+de restaurer
+ou d'instaurer
+le permis S,
+un permis spécial
+transitoire
+que beaucoup de pays
+ont mis en place.
+C'est aussi le cas
+de la France,
+de l'Allemagne,
+sauf erreur.
+Donc un permis
+qui évite
+toute une série
+de procédures d'asile.
+Donc à partir du moment
+où vous étiez
+ukrainien,
+vous pouviez rentrer
+en Suisse,
+rester en Suisse,
+être prise en charge
+par le gouvernement,
+mais ça ne va pas
+durer très longtemps.
+Donc votre dossier
+n'est pas traité,
+vous avez ce permis
+qui est renouvelé
+d'année en année
+et je pense
+qu'il va se terminer
+prochainement.
+Donc voilà
+pour le cas
+spécifique
+de la Suisse.
+Maintenant,
+en ce qui concerne
+le parcours migratoire,
+alors comment maintenant
+les gens se rendent ?
+Comme j'ai dit tout à l'heure,
+avant 1980,
+on utilisait
+certaines opportunités,
+certaines portes d'entrée,
+donc un voyage
+à l'étranger
+pour un colloque,
+pour un festival,
+pour un récital,
+etc.,
+ou pour des compétitions
+ou alors la présence
+d'une ambassade
+pour faire
+une demande,
+pour déposer
+une demande d'asile.
+Aujourd'hui,
+c'est très différent
+et c'est très variable.
+Donc,
+avec des approches
+qui sont très
+compliquées,
+notamment,
+par exemple,
+les Cogolais
+qui cherchent
+l'asile en Europe,
+souvent,
+ils prennent l'avion,
+mais comme vous le savez,
+on ne rentre pas
+dans un avion
+sans visa,
+avec des passeports
+d'empreintes.
+Il y a visiblement
+un trafic
+de passeports
+au Congo
+qui permettent
+aux personnes
+d'arriver
+jusqu'en Europe.
+C'est une manière
+de faire,
+il y a des voyages
+en bateau,
+on en parle beaucoup
+dans l'actualité,
+donc il y a des routes
+maritimes,
+soit en direction
+des îles canariques
+qui sont des territoires
+espagnols,
+soit méditerranéennes
+en direction
+des îles italiennes.
+Et puis,
+il peut y avoir,
+bien entendu,
+aussi,
+ou d'une manière
+systématique,
+des routes terrestres,
+notamment le transit
+en direction
+de la Libye
+ou de la Tunisie,
+la traversée
+du désert du Sinaï
+jusqu'en Israël
+pour les Érythréens
+et les Égyptiens,
+etc.
+Certaines routes
+s'ouvrent,
+par exemple,
+la route
+entre la Turquie
+et la Grèce
+n'était jamais
+utilisée avant 2015
+ou très rarement
+utilisée avant 2015.
+Et puis,
+à partir de 2015,
+eh bien,
+ça a été une route
+qui s'est ouverte,
+on s'est rendu compte
+que les requièments
+d'asile
+se sont rendu compte
+que pour des questions
+de sécurité,
+c'est mieux de passer
+par là
+que de passer
+par la Libye,
+etc.
+Donc,
+il y a eu
+ce qu'on avait vu
+lors d'une présentation
+d'une revue de presse,
+eh bien,
+une mise en évidence
+de la problématique
+des réfugiés en Grèce
+avec la nécessité
+d'instaurer
+des camps
+de réfugiés
+qui ne sont pas
+forcément très...
+enfin,
+qui sont assez critiques,
+critiqués en tout cas.
+Et puis,
+il y a d'autres routes,
+par exemple,
+il y a une communauté
+nord-coréenne
+qui arrive en Europe,
+relativement peu
+en Suisse,
+et puis,
+c'est une route
+qui est uniquement terrestre,
+donc en passant
+par la Russie,
+l'Ukraine.
+Alors,
+j'imagine que depuis 2022,
+la route a été modifiée,
+etc.
+Donc,
+il y a une vraie
+diversification des routes
+qui dépend
+des opportunités,
+la présence des passeurs,
+la capacité
+de passer
+les frontières,
+etc.
+Certains pays
+sont difficiles
+à franchir,
+par exemple,
+la haugrie,
+ça vaut mieux la peine
+de ne pas trop essayer,
+etc.
+Et puis,
+ça tient compte aussi
+d'aspect sécuritaire.
+Si on s'intéresse,
+et là,
+je parle d'Alexis Clotaire-Bassonnet,
+qui est un ancien étudiant
+en sociologie
+de l'Université
+de Genève,
+qui a écrit une thèse
+très intéressante
+qu'on retrouve
+aux éditions Saïsmo,
+l'agir clandestin.
+Si vous vous intéressez
+à cette problématique,
+eh bien,
+consultez cet ouvrage.
+Lui,
+il est
+du Burkina Faso,
+si je ne fais erreur.
+Donc,
+c'est une personne
+un peu noire
+qui était arrivée
+en Suisse
+pour étudier.
+C'est un étudiant
+en sociologie
+qui était très brillant.
+Et puis,
+ses caractéristiques
+de vie
+lui permettaient
+d'échanger assez facilement
+avec une population
+alors qu'il n'était pas
+simplement réfugié
+ou requérante d'asile.
+C'était une population
+originaire
+d'Afrique subsaharienne
+qu'il rencontrait
+dans certains endroits
+à Genève.
+Donc,
+il a pu faire
+des entretiens
+après une approche
+qui a pris du temps.
+Il explique dans sa thèse
+qu'il a dû,
+dans un premier temps,
+défier une certaine méfiance
+de cette population
+qui était souvent
+non,
+enfin,
+avec le statut
+de même,
+donc non entrée
+en matière.
+C'est des populations
+qui n'ont pas
+la possibilité
+de rentrer
+dans le processus
+d'asile
+parce qu'ils ne répondent pas
+toujours aux critères,
+etc.
+Donc,
+il a commencé
+à rendre des services
+pour essayer
+de s'attirer
+une certaine amitié
+et puis,
+à partir d'un certain moment,
+il a pu recueillir
+des témoignages
+sur la manière
+de vivre
+de cette population
+à Genève.
+Alors,
+ces témoignages
+je vous renvoye
+à son ouvrage
+que je vous présente ici,
+c'est les routes
+qui ont été empruntées
+par les différentes personnes
+qu'il a rencontrées
+sur le continent africain
+pour arriver
+à des portes d'entrée.
+Donc,
+ça peut être Malte
+pour certains d'entre eux
+qui sont partis
+soit de Tunisie,
+soit de Tripoli,
+de la Libye
+pour traverser
+la Méditerranée.
+Ça peut être aussi
+des routes
+par bateau
+jusqu'à Sulta
+et Melilla,
+donc ces enclaves
+espagnoles.
+Et puis,
+lui,
+ce qu'il montre
+à partir de ces témoignages,
+c'est l'importance
+en particulier
+d'Agadès
+dans le sens
+d'une ville du Niger.
+Ce n'est même pas
+la capitale
+puisque la capitale
+du Niger est Niamey,
+mais Agadès,
+c'est une sorte
+de centre
+où c'est facile
+de trouver
+des passeurs
+pour passer
+plus haut
+jusqu'au Maroc,
+etc.
+Où c'est facile
+de trouver
+des bus
+qui partent
+également
+dans cette direction
+où il y a
+plus si possible
+de trouver
+des papiers
+d'identité,
+etc.,
+qui est économique
+en Europe,
+eh bien,
+la majorité
+se rend à Agadès
+avant de partir
+en direction
+soit du Maroc,
+soit de la Libye.
+Donc,
+il y a des routes
+qui sont bien établies
+et puis,
+ces routes,
+les candidats,
+au départ,
+les connaissent
+par le fait
+qu'ils connaissent
+certainement déjà
+des personnes
+qui ont réalisé
+ces routes,
+etc.
+J'ai parlé tout à l'heure
+de Ceuta
+et Mélila,
+je pense que
+vous connaissez
+ces régions.
+Vous avez certainement
+entendu parler
+des enclaves
+en Espagne.
+Alors,
+j'ai repris
+une vieille description
+de la protection
+qui entoure
+ces enclaves
+avec des tours
+de guet.
+Donc,
+si vous voulez
+passer du Maroc
+en Espagne,
+vous avez 200 mètres
+pratiquement
+de zones
+de l'endroit
+à traverser
+avec des barrières
+de dissuasion,
+des clôtures,
+etc.
+Donc,
+tout seul,
+vous n'y arriverez pas.
+C'est juste impossible.
+La seule manière
+de faire,
+c'est se mettre
+à 1 000,
+2 000,
+3 000,
+etc.
+Et puis,
+d'y aller tous ensemble
+et finalement,
+les gardes arriveront
+à capter
+un certain nombre
+de personnes
+qui tentent
+le déplacement,
+mais pas toutes.
+Si vous avez la chance,
+vous passez à travers
+parce que vous courez
+un peu plus vite
+que les autres.
+Donc,
+voilà comment ça se passe.
+C'est magnifique
+de se rendre compte
+qu'on est dans une période
+où on est obligé
+de se protéger
+et que c'est dramatique
+de devoir se rendre compte
+de la manière
+dont l'Europe se protège
+d'une population
+qui, à la base,
+cherche de la sécurité.
+Donc,
+voilà.
+Je vous présente aussi
+un deuxième...
+Enfin,
+peut-être juste avant,
+vous avez compris,
+la migration,
+elle se fait par étapes.
+Alors,
+elle peut être planifiée.
+C'est ce que nous raconte
+Alexis Bassolet
+à partir d'un exemple
+d'une personne
+de Sierra Leone
+qui l'a rencontrée à Genève.
+Elle est partie de la capitale
+et était à la déesse
+à Tripoli
+en Italie.
+Ça peut prendre une année,
+ça peut prendre deux années.
+Donc,
+c'est un parcours
+qui est planifié.
+Après,
+lorsqu'il arrive en Italie,
+il se rend
+d'une manière ou d'une autre
+en Suisse
+et il se retrouve
+à Genève.
+Mais ça peut être aussi
+des déplacements
+qui sont urgents
+lors de crises
+humanitaires,
+lors de crises politiques,
+eh bien,
+fort heureusement,
+les Nations Unies
+ont encore la capacité
+aujourd'hui
+de construire
+assez rapidement
+des camps de réfugiés,
+donc d'accueillir
+sur sol voisin
+des populations
+qui sont
+dans une situation
+de manque de sécurité.
+Mais à ce moment-là,
+eh bien,
+ces camps de réfugiés,
+ils vont rester
+un petit peu figés
+avec parfois
+des personnes
+qui peuvent
+quitter ces camps
+pour ce qu'on appelle
+une migration secondaire.
+Et là,
+je vais donner l'exemple
+d'une étude
+d'une chercheuse
+anthropologue
+qui s'appelle
+Joël Moret
+qui a travaillé
+sur les Somaliens
+aussi autour de 2010,
+etc.
+Et puis,
+qui a envoyé
+des enquêteurs
+à la fois
+dans les camps
+de réfugiés somaliens.
+il y en avait
+dans certains pays
+Djibouti,
+le Kenya,
+etc.
+Et puis,
+également,
+en Suisse,
+je crois,
+et dans d'autres pays,
+peut-être la Hollande,
+où on retrouve
+ce qu'on appelle
+ces migrants secondaires,
+ces personnes
+qui ont pu quitter
+pour une raison
+X, Y,
+ces camps de réfugiés
+pour se rendre
+en Europe.
+Et ça,
+ça nous permet
+de décrire
+les trajectoires migratoires.
+Alors,
+peut-être juste avant
+de rentrer
+dans la description,
+relever que,
+alors là,
+je prends un graphique
+que j'avais fait,
+pas très joli forcément,
+mais que j'avais fait
+il y a quelques années
+sur les requérants d'asile.
+Ce qui nous intéresse ici,
+ce sont des populations
+de l'ensemble des termites.
+Bon,
+là,
+vous oubliez la distinction
+entre les différents
+statuts de ces populations.
+Ce que je vais montrer par ici,
+c'est que l'asile,
+alors même que lorsque
+vous avez une crise,
+on peut penser
+que toutes les populations
+sont concernées
+par des problèmes sécuritaires,
+eh bien,
+l'asile concerne surtout
+des personnes jeunes,
+âgées entre 20 et 35 ans,
+de sexe masculin.
+Donc,
+finalement,
+celles et ceux
+qui tentent leur expérience
+et qui,
+en l'occurrence,
+dans ce cas-là,
+arrivent en Suisse,
+mais c'est la même chose
+dans les différents pays,
+eh bien,
+sont plutôt
+des jeunes hommes.
+Donc,
+là,
+on va parler
+de jeunes hommes.
+Les femmes,
+il y en a aussi,
+mais ces femmes,
+en fait,
+elles sont beaucoup
+représentées en orange.
+L'orange représente
+les personnes
+dans le parcours de l'asile,
+donc on attend
+une décision.
+Et en fait,
+les requérantes d'asile,
+elles sont relativement rares,
+les sexes féminins
+sont relativement rares.
+Par contre,
+l'asile chez les femmes,
+eh bien,
+s'organisent souvent
+par le regroupement familial
+qui reste encore possible
+et s'est remis
+en question.
+Donc là,
+on parle vraiment
+d'une population
+plutôt masculine,
+notamment pour celles
+et ceux qui arrivent
+en Europe,
+mais avant d'arriver
+en Europe,
+il faut se retrouver
+déjà en sécurité
+dans des camps de réfugiés.
+Là,
+vous avez un camp de réfugiés
+des populations somaliennes
+au Kenya.
+Vous voyez que c'est...
+Bon,
+l'image de Joël Moret
+n'est pas toujours
+très claire,
+mais on voit
+que les conditions,
+elles ne sont pas
+forcément très...
+très bonnes.
+Et Joël Moret
+donc également recueillit
+un certain nombre
+de témoignages,
+en l'occurrence,
+c'est ces enquêteurs
+avec des témoignages
+qui sont très,
+très, très violents.
+Les filles sont souvent
+violées quand il y a
+quelques camps
+pour aller chercher du bois.
+Les hommes qui n'ont voulu
+aller chercher du bois
+ont été battus
+et n'ont rien pu ramener.
+Les filles sont violées,
+mais on leur permet
+de ramener du bois,
+elles.
+Les filles et les femmes
+sont confrontées au danger
+parce qu'il faut bien
+qu'on mange
+pour pouvoir survivre.
+Voilà,
+ce sont les locaux
+qui vivent dans les environs
+du camp
+qui abusent
+de ces populations.
+Donc,
+je vous donne quelque part
+des références
+de Joël Moret.
+Vous verrez que
+dans cet ouvrage,
+les choses qui se passent
+ne sont pas forcément
+très agréables.
+Après,
+c'est ce sont des populations
+très bien rémunérées,
+mais qui doivent vivre
+d'une manière
+ou d'une autre.
+Alexis Clothère,
+donc lui,
+il s'est plutôt intéressé
+à la manière
+de transiter
+jusqu'en Europe
+et avec aussi
+un certain nombre
+de témoignages
+de sa population,
+notamment sur les passages,
+la manière de passer.
+Donc,
+dans la pleine Brousse,
+nous avions encore
+entre nous,
+la nature,
+les hommes,
+les chiens,
+comme ça,
+on était les modificateurs,
+etc.
+Alors là,
+on a un témoignage
+d'une personne
+qui explique
+comment elle avait réussi
+en s'enduisant
+de la graisse de lion
+à éviter
+les chiens
+des policiers.
+Donc,
+voilà.
+Un autre aspect
+qui est aussi
+très important,
+c'est la cadence.
+Ce sont des populations
+qui essayent de transiter
+déjà d'un pays
+jusqu'en Algérie,
+ensuite aller plus loin,
+etc.
+Et puis,
+ce qu'il faut souvent,
+c'est d'attendre
+à proximité
+de la frontière
+pour analyser
+la cadence
+de passage
+des policiers
+ou des douaniers
+et puis de profiter
+d'une période
+qui est plutôt calme
+pour traverser
+la frontière.
+Mais,
+je m'arrête là
+avant une petite pause,
+même si cette personne
+a réussi son parcours,
+qu'elle en rit,
+qu'elle explique
+ses stratégies,
+etc.,
+il ne reste pas moins
+qu'on observe
+un certain nombre
+de décès,
+un nombre trop important
+de décès
+entre 2014
+et 2019,
+17 000 morts
+durant,
+uniquement pour
+la Méditerranée,
+il y en a eu
+fortement,
+également beaucoup
+avant la traversée
+de la Méditerranée,
+donc pratiquement
+4 000 morts par année
+et si on va
+un peu plus
+dans les détails,
+on s'aperçoit aussi
+que, par exemple,
+la traversée de la Libye
+entraîne aussi
+un certain nombre
+de décès
+parce que c'est
+des conditions
+qui, bien entendu,
+sont très difficiles.
+Donc, voilà,
+une traversée
+de l'Afrique
+et de la Méditerranée
+dans ce cas-là
+qui est relativement
+difficile.
+On fait 15 minutes
+de pause
+s'il n'y a pas
+de remarques
+et puis on reprend
+avec sur
+l'installation
+en Europe.
+Sous-titrage ST' 501
+if they find
+you are more intelligent
+and something
+they take the power
+of intelligence
+is that they take
+the power
+of you.
+I don't want
+I'm stuck
+using AI
+and I don't want
+to come
+I spent
+years studying
+I spent
+years studying
+I'm having
+a waste
+of hours
+and they
+don't know
+how they
+don't know
+how they
+like that
+it's not
+calculated
+it's not
+intelligence
+it's not
+it's not
+be careful
+be careful
+because
+it's not
+logique
+pourquoi
+il y a
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+un
+Sous-titrage ST' 501
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+Patte
+...
+...
+...
+...
+...
+vous êtes sûr que c'est bien saison, etc.
+Et puis, bon, bref, comme il est de petite taille, il est mince,
+ça marchait, et il a pu rester en Suisse,
+malgré le fait qu'il était adulte, simplement parce qu'il rentrait
+dans cette catégorie de mineurs non accompagnés.
+La manœuvre de la nationalité, j'en ai déjà parlé,
+donc identifier des pays au conflit, pour lesquels on parle la langue,
+après, les autoritaires aussi, toute une série de manières
+de vérifier le statut.
+Alors aujourd'hui, fort heureusement, ça se passe plutôt en Suisse,
+mais il y a une période où les pays européens avaient mandaté
+une société de détectives, en quelque sorte,
+qui vivait au Kosovo, qui était au Kosovo,
+et puis lorsque les pays recevaient un dossier,
+eh bien, ils transmettaient le dossier à cette entreprise,
+qui avait vérifié sur place la pertinence de la situation
+des personnes qui demandaient l'asile,
+ce qui était assez... enfin, ça coûtait cher,
+et puis qui n'apportait pas grand-chose.
+Mais bref, aujourd'hui, on n'est pas à ce niveau-là,
+on va plutôt regarder, mettre en confrontation
+les personnes qui se disent ivoiriens,
+avec des traducteurs ou des interprètes de dialectes ivoiriens,
+on va poser des questions sur la Côte d'Ivoire, etc., etc.
+Durant la période où la Côte d'Ivoire est un pays
+qui permettait un accès à l'asile,
+ce qui n'est plus le cas aujourd'hui.
+La manœuvre de l'identité, on en a déjà parlé,
+l'identité virtuelle, l'identité impossible à vérifier,
+et puis le discours impitoyant, les pleurs, etc.,
+qui sont considérés par les personnes qui ont été interrogées
+comme une manœuvre permettant éventuellement
+d'obtenir un permis de séjour.
+Donc voilà pour ces deux sources,
+si vous avez envie d'en savoir plus,
+je vous conseille en tout cas celui-ci,
+la FUJ au West Africa en Suisse,
+c'est un excellent travail de thèse.
+Pour ce qui concerne les sommaniens en Suisse,
+ce sont des ouvrages un peu plus techniques
+qui ont été effectués par Joël Morec
+et donc son équipe.
+Voilà, donc les trajectoires,
+est-ce qu'il y a des questions jusque-là,
+des remarques, des commentaires supplémentaires ?
+Tout est clair ?
+Parfait.
+On regarde un petit peu ce qui se passe
+du point de vue du pays d'accueil.
+Donc on se pose maintenant dans la situation
+des responsables de l'asile,
+un petit peu moins des personnes
+qui sont dans ce processus.
+Et il y a un certain nombre d'éléments
+qui interviennent, d'une part,
+qui rendent difficile la gestion de l'asile.
+D'une part, c'est la volatilité des flux.
+C'est-à-dire que d'une année à l'autre,
+il peut y avoir des changements
+qui sont très importants.
+Je vous ai parlé, par exemple,
+des Kosova qui sont arrivés
+entre 1998 et 2000,
+approximativement,
+donc plus de 100 000 personnes.
+Après, en 2015, même si,
+comme je vous l'ai dit tout à l'heure,
+la Suisse était très fermée
+par l'asile,
+on a connu quand même une augmentation,
+etc.
+Et puis en 2020,
+c'était un petit peu la crise de l'asile
+puisqu'on comptait moins de 10 000 personnes
+qu'entre 40 000.
+Donc, demandes d'asile,
+des personnes qui déposent
+une demande d'asile.
+Alors, ça peut être une demande primaire,
+c'est-à-dire une personne qui arrive
+en Suisse et qui dépose une demande
+ou des demandes secondaires,
+c'est-à-dire le regroupement familial.
+Donc, on est passé de 40 000 à 10 000.
+Donc, comme vous le savez,
+c'est organisé,
+l'asile est organisé d'une manière
+à répondre aux besoins vitaux
+des personnes concernées
+en termes de lits,
+en termes d'alimentation, etc.
+Donc, c'est relativement difficile
+d'une période à l'autre
+de préparer un encadrement.
+En 2015, il faut engager du monde.
+En 2020, il faut débaucher,
+licencier les personnes
+qu'on a engagées.
+Et puis, en 2022,
+il faut de nouveau engager du monde.
+Ici, il ne figure pas
+le cas de l'Ukraine.
+En 2022, on est ici.
+C'est à l'exception de l'Ukraine,
+puisque, comme j'ai dit tout à l'heure,
+l'Ukraine a une situation un peu particulière.
+Enfin, les Ukrainiens et l'Ukrainiennes
+ont une situation un petit peu particulière.
+En 2015,
+on a une illustration assez intéressante
+des variations
+de la population
+concernée par l'asile
+dans les différents pays
+en fonction justement
+du degré d'ouverture.
+Vous étiez encore jeunes en 2015,
+mais vous aviez peut-être vu
+dans certains pays comme l'Allemagne,
+des citoyens
+qui se rendaient
+à la gare
+pour distribuer des biens,
+de l'alimentation,
+des habits aux réfugiés
+qui arrivaient.
+Donc, on avait un accueil
+qui était assez important,
+qui était assez positif.
+Donc, ça favorisait l'arrivée
+d'une population en Allemagne,
+donc d'une population
+essentiellement syrienne,
+mais aussi à l'Allemagne
+en Allemagne.
+Alors là, vous savez,
+le nombre de réfugiés
+qui étaient arrivés
+en 2015
+jusqu'au mois d'octobre,
+en l'occurrence,
+un petit peu avant,
+mais puisqu'on parle de 15
+et depuis 2012,
+le nombre de réfugiés
+qui sont arrivés
+ou de requérants d'asile,
+c'est plus précisément
+qui sont arrivés.
+On voit qu'il y en a eu
+des normes
+par rapport à d'autres pays.
+La majorité vient de Syrie
+et ce nombre assez important
+s'explique par le fait...
+Alors, il faut comparer
+ce qui est comparable.
+On ne peut pas comparer
+l'Allemagne avec la Suisse,
+mais on peut comparer
+avec l'Italie ou la France.
+Ce nombre assez important
+s'explique par le fait
+qu'il y a une politique d'accueil
+qui est plutôt positive
+plutôt allé en Allemagne
+plutôt qu'allé ailleurs.
+Avec quand même
+peut-être un questionnement
+par rapport au nombre réel
+de requérants d'asile
+qui sont arrivés en Allemagne.
+Ce questionnement,
+il découle de ce graphique
+qui montre d'une part
+le nombre de personnes
+qui sont enregistrées
+comme requérants d'asile,
+qui arrivent dans des centres
+et puis on voit
+qu'il y a eu une très forte augmentation
+sur la deuxième entière de 2015,
+donc au moment de la crise.
+Mais si on regarde
+effectivement le nombre d'applications
+pour avoir un permis de séjour,
+on voit que ça n'a pas tellement
+pas de même rythme.
+Et là, on s'est rendu compte
+qu'il y a eu un certain nombre
+de flous statistiques.
+Donc, les 546 000 personnes,
+souvent, c'était des personnes
+qui s'étaient enregistrées
+plusieurs fois, par exemple.
+Donc, il y avait des doubles
+ou triples enregistrements
+pour essayer d'obtenir
+plus rapidement un permis, etc.
+Donc, le chiffre a été probablement
+un petit peu surestimé.
+Voilà.
+Donc, tout cela,
+toutes ces procédures
+ou toutes ces arrivées,
+s'inscrivent dans un cadre juridique
+qui est relativement rigide
+avec comme premier élément
+la Convention de Genève
+qui a été signée pratiquement
+par tous les pays,
+sauf la Corée du Nord,
+sauf Erreur,
+et puis quelques autres pays.
+Donc, la Convention de Genève
+du 28 juillet 1951
+suit la guerre,
+la Deuxième Guerre mondiale
+et fait référence en particulier
+aux personnes qui ont subi
+des déplacements avant 1951
+en Europe.
+Donc, en particulier des personnes
+qui ont été,
+qui ont transité d'un pays à l'autre
+en tant que réfugiés
+au moment de la Deuxième Guerre mondiale.
+Donc, cette Convention de Genève
+portait sur une sous-population
+de personnes européennes
+concernées par des questions sécuritaires
+avant 1951.
+Donc, elle ne s'appliquait pas
+à la situation des latino-américains
+ni à la situation
+des populations
+d'origine asiatique,
+africaine, etc.
+Ce n'est qu'en 1967
+qu'un protocole
+a été signé à New York
+qui supprime
+les restrictions temporelles
+et géographiques.
+Donc, on s'est rendu compte
+16 ans après
+que l'asile
+n'est pas simplement
+le résultat
+d'une conséquence
+de la Deuxième Guerre mondiale,
+des conflits qui se créent
+notamment en Asie.
+Et dès lors,
+on va étendre
+la portée
+de la Convention de Genève
+à l'ensemble des pays
+et à l'ensemble des périodes.
+Donc, à partir du protocole
+de 1967,
+on a une convention
+qui est universelle,
+qui règle
+le cas des personnes
+qui, pour des raisons
+XY,
+sont victimes
+ou pourraient subir
+des persécutions.
+En Europe,
+mais c'est vrai
+dans tous les autres continents,
+on a signé
+d'autres conventions,
+notamment
+la convention
+de Dublin
+de 1990
+et de Dublin 2
+en 2003,
+la région européenne
+et en particulier
+aux personnes,
+enfin,
+le pays
+qui ont ratifié
+cette convention.
+Donc,
+en l'occurrence,
+la plupart d'entre eux
+sont des États membres
+de l'Union européenne.
+Et puis,
+dans un troisième niveau,
+chaque État dispose
+d'une marge
+de manœuvre
+dans la maison neuve
+des politiques d'asile.
+Alors,
+qu'est-ce que c'est
+Dublin ?
+Bien sûr,
+on prend
+la deuxième convention
+de Dublin,
+Dublin 2
+en 2003.
+Eh bien,
+son objectif
+était d'éviter
+ce qu'on appelle
+le
+« asylum shopping »,
+c'est-à-dire
+le mouvement
+des réfugiés
+des requérants
+d'asile
+d'un État
+à l'autre
+pour garantir,
+enfin,
+pour augmenter
+ses chances
+d'avoir un statut
+de réfugié.
+Donc,
+qu'est-ce qu'on a fait
+en particulier ?
+Eh bien,
+c'est la mise en place
+d'une base
+de données biométriques
+qui est commune
+à l'ensemble
+des pays européens
+et qui permet
+d'identifier
+chaque personne
+et de vérifier
+quel est son statut
+réel,
+c'est-à-dire
+est-ce que
+cette personne
+a déposé
+dans un autre pays,
+a déjà appliqué
+pour un statut
+de réfugié.
+La règle,
+c'est qu'un seul État
+est responsable
+du traitement
+de l'asile
+et l'État,
+en règle générale,
+est le premier
+pays d'arrivée,
+c'est-à-dire
+un pays plutôt
+limitrophe,
+donc l'Italie,
+la Grèce,
+l'Espagne,
+etc.,
+ou alors,
+en cas de liens
+familiaux,
+eh bien,
+le pays
+où la personne
+dispose de liens
+familiaux.
+C'est là
+qu'on retrouve
+quelque sorte
+nos Somaliens
+qui ont fui
+à Djibouti
+puis qui se retrouvent
+aux procédures
+d'asile en Suisse
+ou en France
+pour des réseaux
+de liens familiaux.
+Voilà.
+Les transferts
+entre États
+se font
+d'une manière
+accompagnée.
+Alors,
+le Dublin 2
+prévoit le recours
+à la détention
+et je pense
+que vous êtes
+assez au courant
+de l'actualité
+pour savoir
+que ça ne se passe
+pas très bien.
+Notamment,
+oui,
+pardon ?
+Alors,
+le principe
+de base,
+c'est que
+le pays
+où vous posez
+le pied
+en Europe
+est responsable
+du traitement
+de votre demande.
+Alors là,
+c'était le cas
+parce que
+lorsqu'il y a
+des liens familiaux,
+lorsqu'il y a
+des liens familiaux,
+mais votre question
+elle est intéressante
+parce qu'en fait
+le principe de base
+c'est ça,
+mais ça veut dire
+concrètement
+que la majorité
+des cas d'asile
+arrivent par bateau,
+ils ne vont pas
+arriver en Suisse
+en fait,
+ils vont arriver
+en Italie,
+en Espagne éventuellement,
+en Grèce,
+et là en fait
+il y a des conventions
+supplémentaires
+qui sont parfois
+mises en place
+mais qui ne fonctionnent
+pas toujours,
+qui visent à attribuer
+à un état tiers
+en fait le traitement
+de demandes
+simplement parce que
+les pays
+qui sont frottaliers
+à la Méditerranée
+n'arrivent pas
+à faire face
+à l'ensemble
+des demandes.
+Donc en l'occurrence
+l'Italie par exemple
+ils ont des problèmes,
+ils ramassent pratiquement
+tous les réfugiés
+en quelque sorte
+mandatés d'autres pays
+à traiter les demandes.
+Mais en principe
+selon Dublin 2
+en tout cas
+c'est le pays d'arrivée
+qui est responsable
+du traitement.
+Ce qui fait
+que dès qu'il y a
+des transferts
+qui se font
+parce que
+les populations
+sont mobiles
+on peut passer
+quelques temps en Italie
+en tant que requérant d'asile
+vous voyez que
+vous n'avez pas d'avenir
+pas de futur
+que vous allez être envoyé
+vous allez en Suisse
+c'est plutôt facile d'accès
+c'est pas trop loin
+etc.
+Et vous déposez
+une demande.
+Dans ce cas là
+la Suisse
+se rencontre
+par
+cette base de données
+biométrique
+se rencontre
+que vous avez déjà déposé
+une demande
+en Italie
+donc va vous transférer
+en Italie
+sous certaines conditions
+une des conditions
+c'est la sécurité
+du traitement
+ou la qualité
+du traitement
+du dossier
+et là par exemple
+la Suisse
+mais aussi la Norvège
+renonce à transférer
+certains requérants
+en Grèce
+simplement pour
+des questions humanitaires
+parce qu'ils se rendent compte
+que le traitement
+de cette population
+en Grèce
+ne répond pas
+des principes
+humanitaires
+de base
+donc voilà
+comment ça se passe
+mais les transferts
+ils sont assez réguliers
+notamment
+en direction
+de l'Espagne
+et de l'Italie
+alors
+c'est des conditions
+qui sont relativement
+inhumaines
+pourquoi ?
+parce que
+les personnes
+du domaine
+de l'asile
+savent que
+dans les pays
+d'Europe du Sud
+les conditions
+de prise en charge
+de cette population
+sont beaucoup plus
+restrictives
+qu'en Allemagne
+ou en Suisse
+et dès lors
+il y a des sentiments
+d'insécurité
+qui grandit
+il n'y a pas de possibilité
+de recours
+contre ce transfert
+une fois qu'il est décidé
+et bien
+voilà
+ce transfert
+peut provoquer
+dans une certaine mesure
+la séparation
+de familles
+agrandies
+c'est à dire que
+le principe de Dublin
+c'est que si vous avez
+un conjoint
+ou des enfants
+ils ont le droit
+au traitement
+dans le pays
+où vous êtes
+mais si c'est un cousin
+ben non
+il n'y a pas
+de possibilité
+et ça
+ça crée toute une série
+de pressions
+sur les pays
+frottaniers
+l'Europe
+a aussi mis en place
+toute une série
+de mesures
+qui a été introduit
+en 2006
+qui met à disposition
+des moyens
+pour gérer
+les frontières
+extérieures
+notamment une flotte
+maritime
+qui bloque
+les frontières
+aux Canaries
+aux Mérégés
+dans des régions
+où il y a du passage
+il y a d'autres outils
+qui existent
+par exemple
+l'Eurosur
+qui réduit
+l'immigration
+clandestine
+qui assure aussi
+le sauvetage
+des migrants
+en mer
+d'abord
+ils ne sont pas forcément
+les plus efficaces
+et qui également
+partagent des images
+aux pays
+ayant des frontières
+européennes
+donc voilà
+enfin il y a toute une série
+d'outils
+qui existent
+à l'échelle européenne
+à l'échelle européenne
+pardon
+et il y a également
+des législations nationales
+qui complètent
+tout cela
+donc
+qui vont
+en quelque sorte
+être mis en place
+pour traiter
+de la procédure
+d'asile
+donc
+ces législations
+elles peuvent
+soit avoir
+influencé
+sur certaines situations
+extrêmement
+exposées
+c'est à dire
+notamment
+l'Italie
+où on va mettre
+en place
+des politiques
+pour essayer
+d'éviter
+un nombre
+trop important
+de requérants
+donc on va faire
+des procédures
+accélérées
+mais plus généralement
+elles gèrent
+la procédure
+d'asile
+de l'accueil
+jusqu'à la décision
+finale
+une procédure
+qui est assez complexe
+je vous mets
+deux illustrations
+une illustration
+pour la France
+lorsque vous arrivez
+en tant que
+requérant d'asile
+et bien vous devez
+passer
+dans
+différentes
+compéter
+en formulaire
+aller dans
+un office
+qui s'appelle
+l'OFPRA
+etc
+on pourrait faire
+également
+des appels
+dans un autre office
+donc c'est
+pas une procédure
+qui est très fluide
+pour des populations
+qui arrivent
+dans le pays
+c'est assez difficile
+de savoir
+comment faire
+il y a des ONG
+qui peuvent
+donner un coup de main
+etc
+mais c'est une procédure
+qui est loin
+d'être linéaire
+la même chose
+en Suisse
+alors les choses
+sont également
+aussi complexes
+mais simplement
+l'état fédéral
+a décidé
+de dessiner cela
+d'une manière
+un petit peu plus
+sympathique
+mais ça ne l'est pas
+donc lorsque
+vous traversez
+la Suisse
+vous avez d'abord
+une phase préparatoire
+de 21 jours
+qui va en particulier
+vous permettre
+d'enregistrer
+votre demande d'asile
+éventuellement
+d'accéder à des services
+de protection juridique
+et puis il y a
+une audition
+qui se fait
+dans le cadre
+des 21 premiers jours
+et ça se fait
+tout cela
+dans les hébergements
+qui sont prévus
+par la Confédération
+donc il y a des centres
+d'accueil
+qui sont dans
+différents cantons
+et à partir de là
+vous avez deux possibilités
+soit
+on vous dit
+ok
+vous pouvez
+entrer
+dans une procédure
+d'asile
+soit
+on n'entre pas
+en matière
+parce que
+vous n'êtes pas
+arrivé directement
+en Suisse
+vous avez un dossier
+dans un autre pays
+qui est en cours
+ou qui a été refusé
+dans un autre pays
+donc c'est ce qu'on appelle
+la procédure Dublin
+qui correspond
+approximativement
+à 40%
+des personnes
+qui arrivent en Suisse
+donc sur 10 personnes
+qui arrivent en Suisse
+avec une
+dans le domaine de l'asile
+dans le domaine de l'asile
+il y en a 4 qui doivent
+directement rentrer
+repartir dans un autre pays
+dans le départ
+il peut durer un certain nombre
+de temps
+donc 140 jours
+il peut être volontaire
+mais
+souvent
+il finit par être
+accompagné
+et dans ces 140 jours
+il donne ça aussi
+un certain nombre de personnes
+qui disparaissent
+dans la nature
+et c'est ce qu'on appelle
+les non-entrées en matière
+donc dont je parlais tout à l'heure
+des personnes
+qui n'ont pas eu accès
+à une procédure d'asile
+ou des raisons XY
+notamment
+parce qu'elles avaient
+déjà transitées
+dans un autre pays
+et puis
+qui restent en Suisse
+mais
+en tant que clandestin
+avec
+relativement peu
+de droits
+voilà
+si vous êtes
+si vous avez passé
+cette première étape
+et bien
+vous avez une procédure
+qui
+qui peut être
+étendue
+qui va durer
+jusqu'à une année
+alors en l'occurrence
+c'est ce que nous dit
+le secrétariat d'état
+d'immigration
+on trouve dans nos registres
+des personnes
+qui sont avec un permis
+N
+donc un permis
+qui est attribué
+en cours de procédure
+qui sont en Suisse
+depuis nos trois ans
+donc parfois
+ça peut durer
+énormément de temps
+puisqu'il va falloir
+justifier
+le motif
+de l'asile
+ça prend du temps
+et pour l'état fédéral
+il va falloir justifier
+la non attribution
+d'un permis
+de réfugié
+qui est admis
+sur le provisoire
+donc il y a 28%
+des 100 personnes
+qui arrivent
+qui se retrouvent
+dans une procédure étendue
+et on a 30 000%
+qui se retrouvent
+dans une procédure
+accélérée
+d'une durée
+de moins
+de 100 jours
+ouvrables
+avec un délai
+de recours
+qui est aussi
+très court
+puisque c'est une semaine
+bien représentant le gain
+qui est proposé
+alors soit
+à l'intérieur
+de l'office
+donc un juriste
+qui va vous aider
+soit un représentant
+extérieur
+par exemple
+d'une organisation
+non gouvernementale
+mais là
+ça veut dire
+qu'il faudra
+prendre en charge
+les frais
+donc voilà
+comment ça se passe
+en cas de procédure
+accélérée
+en cas de procédure
+étendue
+ça peut durer
+jusqu'à une année
+avec des délais
+de recours
+qui sont un peu
+plus important
+et de plus en plus
+et bien
+les états européens
+privilégient
+la procédure
+accélérée
+puisque ça coûte
+moins cher
+ça provoque
+aussi toute une série
+de possibilités
+donc évidemment
+d'éviter une intégration
+si on est refusé
+etc
+donc on est plutôt
+dans ce domaine là
+qui offre
+un recours
+très immédiat
+donc ça veut dire
+qu'on a moins de temps
+pour préparer
+le recours
+donc c'est une situation
+qui est
+qui est prévue
+par la loi
+mais qui est quand même
+dans une certaine mesure
+relativement abusive
+et puis si on voulait
+compléter avec
+les ukrainiens
+alors ce sera encore
+une autre flèche
+là vous avez un permis
+qui est attribué
+mais ce permis
+vous empêche
+de rentrer dans la procédure
+d'asile
+donc vous ne pouvez pas
+faire une procédure
+parallèle
+et puis
+il vous est attribué
+sur une période limitée
+donc ça veut dire
+concrètement
+qu'à partir
+d'un certain moment
+et bien
+vous devrez rentrer
+voilà
+tout ça
+c'est assez complexe
+donc ça veut dire
+concrètement
+qu'il y a différentes
+étapes
+alors comme je l'ai dit
+tout à l'heure
+le permis N
+fait référence
+à la procédure
+en cours
+donc actuellement
+on a approximativement
+20 000 personnes
+qui sont dans cette procédure
+c'est un chiffre
+qui augmente
+suivant l'année
+qui peut diminuer
+je pense qu'en 2025
+c'est en train
+d'augmenter
+après on a
+une spécificité
+de la loi suisse
+ce sont les admissions provisoires
+c'est à dire
+des personnes
+à qui on ne veut pas
+offrir l'asile
+donc on ne va pas donner
+le statut de réfugié
+mais
+qu'on ne peut pas renvoyer
+parce que
+la situation dans le pays
+n'est pas stable
+et là
+les Suisses
+ont joué beaucoup
+sur
+ont utilisé beaucoup
+ce permis
+qui est le permis F
+actuellement
+il y a 45 000 personnes
+qui sont sortent
+de cette situation
+ensuite
+de quoi
+on a
+le statut de réfugié
+qui est accordé
+on rentre
+avec un permis B
+un permis C
+donc
+les permis
+qui sont attribués
+aux populations
+hors du domaine
+de l'asile
+et puis
+ce permis S
+donc
+les personnes à protéger
+utilisé
+pour la première fois
+en 2022
+et
+actuellement
+il y a 65 000 personnes
+en 2024
+il y avait 65 000 personnes
+il y a des gens
+qui rentrent
+de temps en temps
+il y a des gens
+qui repartent
+donc
+ce sont des populations
+qui sont censées rentrer
+je ne sais pas si
+maintenant
+ça a été fixé
+en 2026
+en mai 2026
+ça fera
+rentrer
+à partir
+d'un certain moment
+ce qui n'est pas forcément
+favorable
+pour leur intégration
+puisque
+c'est clair
+que lorsqu'on est
+dans un pays
+comme la Suisse
+et c'est la même chose
+dans d'autres pays
+puis qu'on vous dit
+il faudra rentrer
+dans une année
+ça ne va pas
+vous motiver
+pour vous intégrer
+voilà
+la prise en charge
+de l'asile
+elle est
+elle est publique
+ça c'est évident
+mais
+l'état
+et bien
+utilise
+des
+des organisations privées
+pour gérer
+en fait
+le terrain
+donc
+au début des années
+1990
+pardon
+au début
+du 20ème siècle
+c'était plutôt
+la descente d'entraide
+qui gérait l'asile
+l'asile a commencé
+en 1660
+en Suisse
+avec
+avec l'arrivée
+des pays de protestants
+donc c'est quelque chose
+qui
+en provenance de France
+donc
+c'est quelque chose
+qui est ancien
+donc
+durant toute l'époque
+historique
+c'était plutôt
+les associations
+d'entraide
+protestants
+catholiques
+ouvriers
+etc
+qui
+accompagnaient
+les populations
+du domaine
+de l'asile
+en 1979
+les tâches
+ont été regroupées
+qui sont reconnues
+qui sont toujours
+actives
+aujourd'hui
+comme
+l'aide aux réfugiés
+lausard
+et puis
+à partir de
+2000-2005
+on a commencé
+à déléguer
+l'asile
+à une tiers
+donc il y a des secteurs
+privés
+qui se portent
+beaucoup d'argent
+avec ça
+notamment une entreprise
+qui s'appelle
+ORS Service
+qui fait parler
+d'elle
+de temps en temps
+par des abus
+donc on va
+mandater
+des entreprises
+privées
+pour gérer
+les centres de réfugiés
+etc
+peut-être juste
+pour terminer
+un élément
+qui est spécifique
+de la Suisse
+donc lorsqu'on est
+dans cette
+situation
+de reconnaissance
+en tout cas
+on a passé
+cette première
+frontière
+on va être attribué
+à des cantons
+et l'attribution
+elle se fait
+d'une manière
+assez particulière
+avec un tirage
+au sort
+donc du canton
+en tenant compte
+de la taille
+respective
+de chaque canton
+donc lorsque vous êtes
+une personne
+qui arrive en Suisse
+et qui va
+transiter
+dans la procédure
+d'asile
+on va vous répartir
+en fonction du canton
+avec quelques exceptions
+donc c'est vraiment
+le tirage au sort
+une loterie
+qui s'effectue
+dans l'absence
+bien entendu
+de la personne
+on lui communique
+ensuite
+où elle doit
+se rendre compte
+et cette loterie
+elle peut subir
+quelques exceptions
+par exemple
+si vous avez déjà
+une famille proche
+on va vous attribuer
+dans le canton
+où la famille habite
+et puis
+si vous avez
+des besoins
+de ces femmes
+de santé
+autrement
+c'est tirage au sort
+et ce tirage au sort
+il s'explique
+par le fait
+que la Suisse
+comme vous le savez
+est un pays plurilingue
+par contre
+les requérants d'asile
+souvent
+en tout cas
+ne parlent jamais allemand
+italien non plus
+enfin ils peuvent
+parler allemand
+ou italien
+mais ils ne viennent pas
+de régions germanophones
+ou de régions italophones
+ce serait logique
+il y a toute une série
+d'études
+qui montrerait
+que si on attribuait
+par exemple
+les ressortissants
+ouest-africains
+en Suisse romande
+et bien leur intégration
+serait facilitée
+parce qu'ils parlent
+la langue du coin
+ils peuvent s'insérer
+sur le marché du travail
+beaucoup plus facilement
+mais ça gêne un peu
+les cantons suisses romands
+donc c'est ça
+les cantons suisses romands
+qui imposent cette loterie
+pourquoi ?
+parce qu'ils n'ont pas envie
+de prendre en charge
+l'ensemble de ces populations
+voilà
+la problématique intégrative
+je pense qu'on en a déjà
+parlé
+mais il y a quelque chose
+qui est important
+sur l'intégration
+c'est comme dit Malky
+qui a fait un ouvrage de référence
+il y a 30 ans en arrière
+on ne peut pas considérer
+l'intégration
+on en a parlé
+la semaine dernière
+enfin des dernières semaines
+d'intégration
+on ne peut pas la considérer
+de la même manière
+pour des personnes
+du domaine d'asile
+que pour des personnes
+qui arrivent dans un pays
+pour un autre domaine
+ce sont des personnes
+qui représentent
+des trajectoires
+qui sont parfois
+très variables
+Bon, Boltzmann
+le dit aussi
+il faut des mesures spécifiques
+et puis en particulier
+ce sont les milieux médicaux
+qui alertent
+sur le fait que
+les populations
+du domaine de l'asile
+nécessitent des soins
+particuliers
+que nécessitent
+la plupart du temps
+pas d'autres populations
+migrantes
+notamment au réseau
+de l'expérience
+vécue
+Donc l'intégration
+on ne va pas revenir
+trop dans les détails
+mais elle est rendue
+difficile
+par toute une série
+de facteurs
+notamment
+des facteurs
+qu'on a déjà évoqués
+en règle générale
+les discriminations
+à l'embauche
+les lacunes linguistiques
+les diplômes
+non reconnus
+le manque de connaissance
+du marché du travail
+le manque parfois
+d'expérience professionnelle
+lorsqu'il s'agit de jeunes
+donc ce sont des facteurs
+qui ne sont pas spécifiques
+à l'asile
+par contre il y a deux facteurs
+parmi cette liste
+qui sont spécifiques
+au domaine de l'asile
+ce sont les restrictions
+légales d'accès
+au marché du travail
+en d'autres termes
+lorsque vous êtes
+dans la procédure
+il faut attendre
+un certain moment
+avant de pouvoir rentrer
+sur le marché du travail
+par là
+il y a aussi
+un autre facteur
+qui rejoint
+un peu ça
+c'est que
+l'entrée
+sur le marché du travail
+s'accompagne
+d'un devoir
+de rembourser
+un certain nombre
+d'aides reçues
+donc ça veut dire
+concrètement
+pour la personne
+et bien
+il va falloir
+que
+une partie de son salaire
+va être prélevée
+remis à l'état
+alors pour la personne
+c'est peut-être
+quelque chose
+qui est acceptable
+ou pas
+ça c'est un autre problème
+mais pour l'employeur
+c'est de la papeterie
+ou de la bureaucratie
+qui est assez importante
+donc il faut demander
+des autorisations
+pour l'employeur
+il faut valider le dossier
+ensuite de quoi
+il faut verser
+de la part des employeurs
+pour
+l'engagement
+des personnes
+du domaine de l'asile
+et le deuxième élément
+qui est important
+c'est la stabilité
+du permis de séjour
+lorsque vous avez un permis
+F, N ou S
+et bien
+il n'y a aucune stabilité
+du permis de séjour
+ce qui veut dire
+concrètement
+que l'employeur
+devrait former
+des personnes
+pour l'activité
+qu'elle propose
+et puis
+au risque
+de les voir partir
+assez rapidement
+parce qu'elles sont
+elles sont
+en fin de permis
+il y a quand même
+des initiatives
+qui existent
+à l'échelle
+de l'Union Européenne
+pour par exemple
+soutenir
+des programmes
+pour soutenir
+des programmes
+d'acquisition
+aux compétences
+mais ces initiatives
+elles ne sont pas
+forcément très nombreuses
+toutes ces questions
+d'intégration
+avec l'hypothèse
+qu'elle ne va pas
+rester très longtemps
+voilà
+conclusion
+donc les trois messages
+importants
+la modification
+de la perception
+de l'asile
+et du contexte
+de l'asile
+à partir des années
+1990
+la complexité
+du parcours
+migratoire
+et des procédures
+juridiques
+donc c'est assez complexe
+et ça crée aussi
+toute une série
+de traumatismes
+pour les populations
+qui sont concernées
+et puis il y a aussi
+le troisième aspect
+ce sont les spécificités
+socio-démographiques
+souvent c'est une population
+qui est relativement
+peu qualifiée
+et dès lors
+c'est un petit peu compliqué
+pour intégrer
+rapidement cette population
+sur le marché du travail
+est-ce qu'il y a des questions
+jusque là ?
+c'est à dire
+comment dire
+d'une manière diplomatique
+c'est qu'ils aimeraient
+pas ramasser
+ou se voir attribuer
+l'ensemble
+des migrants francophones
+bien sûr
+c'est une peur
+pour raciste
+et puis voilà
+tout à fait
+on se retrouve justement
+avec des aberrations
+comme des populations
+francophones
+originaires de l'ouest africain
+se retrouvent
+fin fond de la Suisse
+alémanique
+tandis qu'elles auraient
+leur chance
+de pouvoir travailler
+à Genève
+etc
+alors le tirage au sort
+ils jouent aussi
+ils jouent un rôle
+sur la langue
+mais ils jouent aussi
+un rôle
+sur les compétences
+parce que vous vous retrouvez
+avec des avocats
+bien sûr
+le statut d'avocat
+le diplôme va pas être reconnu
+mais des personnes
+qui ont un statut
+qui pourrait être appliqué
+à Genève
+qui se retrouvent
+en Suisse centrale
+alors qu'un agriculteur
+qui aurait éventuellement
+débouché en Suisse centrale
+se retrouve à Genève
+donc c'est vraiment
+une situation
+assez complexe
+les économètres
+montrent
+avec des modèles
+que justement
+que l'intégration
+est freinée
+par l'intégration
+en termes de
+taux de chômage
+etc
+est freinée
+par ce tirage au sort
+d'autres questions
+oui
+il y a plusieurs centres
+oui
+il y a
+il y a
+à Chiasso
+notamment
+en Suisse italienne
+il y a aussi
+des centres
+en Suisse alémanique
+je n'ai pas
+toute la liste
+en tête
+certains sont fermés
+de temps en temps
+d'autres ouverts
+etc
+mais il y en a
+un certain nombre
+alors s'il n'y a pas
+d'autres questions
+je vous propose
+de faire une pause
+jusqu'à 14h15
+et puis on a
+quatre présentations
+donc on se réjouit
+vous pouvez déjà
+installer vos slides
+si vous voulez
+en premier
+parce que j'ai une couve
+juste après
+bien sûr
+vous voulez qu'on avance
+un petit peu l'horaire
+ou
+non non
+ça va
+on peut faire une petite pause
+c'est ok
+ouais
