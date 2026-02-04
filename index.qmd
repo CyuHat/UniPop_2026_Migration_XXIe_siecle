@@ -50,71 +50,182 @@ nocite: |
 
 ## Qu’est‑ce que la migration ? {#def-migrants auto-animate="true"}
 
--   **Migrants**
-    -   Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (travail, études, regroupement familial, etc.).\
-    -   Pas forcément en situation irrégulière ; ils peuvent être accompagnés d’un visa ou d’un permis de séjour.
+**Migrants**
+
+Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (travail, études, regroupement familial, etc.).
+
+Pas forcément en situation **irrégulière**
+    
+## Qu’est‑ce que la migration ? {#def-migrants auto-animate="true"}
+
+**Migrants**
+
+Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (travail, études, regroupement familial, etc.).
+
+  - **Traverser une frontière**
+
+Pas forcément en situation **irrégulière**
+
+## Qu’est‑ce que la migration ? {#def-migrants auto-animate="true"}
+
+**Migrants**
+
+Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (travail, études, regroupement familial, etc.).
+
+  - **Traverser une frontière**
+ 
+Pas forcément en situation **irrégulière**
+
+  - **Visa** ou **permis de séjour**
 
 ::: notes
 Test de notes (Speaker view s)
 :::
 
-------------------------------------------------------------------------
+## Qu’est‑ce que la migration ? {#def-refugies auto-animate="true"}
+
+**Réfugiés**
+
+  - Personnes **persécutées dans leur pays d’origine** et qui fuient pour protéger leur vie ou liberté (Convention de Genève, 1951).
+  
+  - Reconnaissance officielle par un État ou par le Haut Commissariat des Nations Unies pour les réfugiés (UNHCR).
 
 ## Qu’est‑ce que la migration ? {#def-refugies auto-animate="true"}
 
--   **Réfugiés**
-    -   Personnes persécutées dans leur pays d’origine et qui fuient pour protéger leur vie ou liberté (Convention de Genève, 1951).\
-    -   Reconnaissance officielle par un État ou par le Haut Commissariat des Nations Unies pour les réfugiés (UNHCR).
+**Réfugiés**
 
-------------------------------------------------------------------------
+  - Personnes **persécutées dans leur pays d’origine** et qui fuient pour protéger leur vie ou liberté (Convention de Genève, 1951).
+  
+    - **Raisons**: appartenance à un groupe éthique, politique, religieux ou orientation sexuelle
+
+  - Reconnaissance officielle par un État ou par le Haut Commissariat des Nations Unies pour les réfugiés (UNHCR).
 
 ## Qu’est‑ce que la migration ? {#def-asyle auto-animate="true"}
 
 -   **Demandeurs d’asile**
-    -   Individus qui sollicitent la protection internationale mais dont le statut n’est pas encore reconnu.\
+    -   Individus qui sollicitent la **protection internationale** mais dont le **statut** n’est **pas encore reconnu**.\
     -   Soumis à une procédure d’examen (ex. Dublin Regulation en Europe).
 
-------------------------------------------------------------------------
+## La migration, un enjeu politique majeur {auto-animate="true"}
+
+- **Politique**
+  - Des mouvements politiques se forment sur ce sujet
+  - Touche de nombreux domaines de nos sociiétés
 
 ## La migration, un enjeu politique majeur {auto-animate="true"}
 
--   **Discours partisan**
-    -   Les partis populistes tendent à associer migration et sécurité, créant un climat de peur.\
-    -   Les partis progressistes soulignent les bénéfices économiques et la solidarité internationale.
+- **Politique**
+  - Des mouvements politiques se forment sur ce sujet
+  - Touche de nombreux domaines de nos sociiétés
 
-------------------------------------------------------------------------
-
-## La migration, un enjeu politique majeur {auto-animate="true"}
-
--   **Politiques politiques migratoires**
-    -   Accords bilatéraux façonnent les flux légaux[^1]\
-    -   Barrières physiques reflètent des choix politiques plutôt que purement sécuritaires[^2]
-
-[^1]: ex. UE‑Turquie, Accords de mobilité UE
-
-[^2]: ex. mur US‑Mexique, clôtures de la frontière israélo‑palestinienne
-
-------------------------------------------------------------------------
-
-## La migration, un enjeu politique majeur {auto-animate="true"}
-
--   **Médiatisation**
+- **Médiatisation**
     -   Les médias amplifient les récits dominants
     -   Les médias se concentrent sur le sensationnel
-
-------------------------------------------------------------------------
 
 ## Plan de la séance
 
 ::: incremental
+-   Enjeux des migrations internationales
 -   Passports, frontières et souveraineté
 -   Migration internationale au XXIe siècle
--   Migrations invisibles et marginalisées
--   (Perspectives critiques)
+-   Migrations invisibles
 -   **Futur de la migration**
 :::
 
-------------------------------------------------------------------------
+# Enjeux des migrations internationales
+
+## Tensions dans la migration
+
+::: incremental
+- De quelle migration parle-t-on?
+
+- Souveraineté vs droit international
+
+- Devoir (viellisement de la population, aide) vs Identité
+:::
+
+## Migration dans les médias
+
+![https://www.7sur7.be/monde/notre-generosite-attire-les-migrants-illegaux-le-royaume-uni-prend-des-mesures-historiques-de-dissuasion~a11cf528/](image/7sur7_uk_migrants_illégaux.png)
+
+## Migration dans les médias: Terminologie amalgamée {auto-animate=true}
+
+- **"Migrant"** est souvent employé comme un adjectif générique, alors que le droit international distingue
+
+- **"Illégal"**
+  
+## Migration dans les médias: Terminologie amalgamée {auto-animate=true}
+
+- **"Migrant"** est souvent employé comme un adjectif générique, alors que le droit international distingue :  
+  - **Réfugié** (protégé par la Convention de Genève)  
+  - **Demandeur d’asile** (en attente de décision)  
+  - **Migrants économiques** (déplacements volontaires) 
+
+- **"Illégal"**
+
+## Migration dans les médias: Terminologie amalgamée {auto-animate=true}
+
+- **"Illégal"**
+  
+## Migration dans les médias: Terminologie amalgamée {auto-animate=true}
+
+- **"Illégal"**
+
+  - Perçu comme **faute morale et légale**
+  - Masquant la **légitimité juridique**
+  
+## Migration dans les médias: Terminologie amalgamée {auto-animate=true}
+
+- **"Illégal"**
+
+  - Perçu comme **faute morale et légale**
+  - Masquant la **légitimité juridique**
+  
+**Création du termes contradictoires comme "réfugiés illégaux"**
+
+## Examples d'articles {.scrollable}
+
+::: r-stack
+![](image/voa_réfugié_illégaux.png){.fragment width=80%}
+
+![](image/Figaro_réfugiés_illégaux.png){.fragment width=80%}
+:::
+
+::: aside
+
+1. https://www.lefigaro.fr/international/l-allemagne-va-refouler-a-ses-frontieres-les-refugies-illegaux-20240909
+
+2. https://www.voaafrique.com/a/australie-refugies-illegaux-partie-terminee/3863880.html
+:::
+
+## Enjeu: migration désirable vs migration indésirable
+
+![](image/le_temps_migration_illégale_vs_migration_désirable.png)
+
+## Migration dans les médias: Cadre médiatique : quels récits ? {.scrollable}
+
+> [*Étude comparative « Migration coverage in Europe’s media » (2020).* 2015-2018](https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/02_Wissenschaftsportal/03_Publikationen/AP39_Migration_EN.pdf)
+
+- Couverture médiatique **majoritairement négative**
+- **Migrants vu comme une masse/vague** plutôt que comme des individus
+- **Impact négativement** le point de vu sur la migration
+
+## Migration dans les médias: Cadre médiatique : quels récits ? {.scrollable}
+
+> [*Étude comparative « Migration coverage in Europe’s media » (2020).* 2015-2018](https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/02_Wissenschaftsportal/03_Publikationen/AP39_Migration_EN.pdf)
+
+| Axe d’analyse | Observation principale (documents) |
+|---------------|------------------------------------|
+| **Quantité** | Le pic de couverture (2015‑2016) représente 40 % de tous les articles étudiés (EJO 2015). |
+| **Thématique** | 45 % des articles portent sur le **débat politique**, 17 % sur la **situation concrète** des migrants. |
+| **Ton** | Les médias de droite affichent plus souvent des **cadres négatifs**; les médias de gauche privilégient les **cadres d’aide**. |
+| **Acteurs** | 51 % des articles citent des **politiciens**, seulement 29 % mentionnent les **réfugiés** eux‑mêmes. |
+
+## Tension 1: 
+
+
+
+---
 
 # Passports, frontières et souveraineté
 
