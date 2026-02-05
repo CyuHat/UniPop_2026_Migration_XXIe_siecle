@@ -221,39 +221,176 @@ Test de notes (Speaker view s)
 | **Ton** | Les médias de droite affichent plus souvent des **cadres négatifs**; les médias de gauche privilégient les **cadres d’aide**. |
 | **Acteurs** | 51 % des articles citent des **politiciens**, seulement 29 % mentionnent les **réfugiés** eux‑mêmes. |
 
-## Tension 1: 
+## Tension 1: de quelle migration parle-t-on?
 
+## Tension 2: souveraineté vs droit international
 
+## Tension 3: devoir vs indentité
 
 ---
 
 # Passports, frontières et souveraineté
 
-## Histoire du passeport  
+## Les frontières sont-elles naturelles? {auto-animate=true}
 
-- **Lettre de sûreté** (XVIᵉ – XVIIIᵉ s.) : autorisation de passage délivrée par un souverain local.  
-- **Passeport moderne** (premier modèle biométrique 2006, ICAO 2020) – **QR‑code, puces NFC, empreintes**.  
+**Idée reçue** : les frontières seraient des **limites immuables**, héritées de la **nature**. 
 
-> ![Évolution du passeport](/images/passport-timeline.jpg){width=70%}  
-> *Figure 1 : Du manuscrit à la puce biométrique (source : ICAO, 2020).*
+## Les frontières sont-elles naturelles? {auto-animate=true}
 
-## Frontières & État‑nation  
-- **Traité de Westphalie (1648)** : naissance du système d’État souverain.  
-- **Zone Schengen (1995)** : suppression des contrôles intérieurs, externalisation des frontières.  
+**Idée reçue** : les frontières seraient des **limites immuables**, héritées de la **nature**. 
 
-> ![Carte Schengen 2024](/images/schengen-map.png){width=80%}  
-> *Figure 2 : États membres (bleu) et pays associés (vert).*
+**Souveraineté d'un État**: Autorité exclusive d'un État sur son territoire et sa population.
+
+## Les frontières sont-elles naturelles? {auto-animate=true}
+
+**Idée reçue** : les frontières seraient des **limites immuables**, héritées de la **nature**. 
+
+**Souveraineté d'un État**: Autorité exclusive d'un État sur son territoire et sa population.
+ 
+**En réalité** : montrer que les frontières sont avant tout des constructions sociales et politiques.
+
+## Passport?
+
+**Visa**: autorisation officielle délivrée par le gouvernement d’un pays qui permet à un étranger d’entrer, de séjourner ou de travailler sur son territoire pendant une période déterminée.
+
+**Passeport**: document d’identité officiel délivré par l’État de nationalité d’une personne.
+
+## Du mouvement humain à la sédentarisation  
+
+1. **Préhistoire** : Homo sapiens parcourt le globe (300 k ans) – aucune notion de frontière.  
+2. **Révolution néolithique (~12 ka)** : agriculture → besoin de protéger les champs → premières démarcations matérielles (piquets, fossés).  
+3. **Civilisations antiques** : limites fonctionnelles (ex. Limes romain) mais **pas de souveraineté territoriale** au sens moderne.  
+
+> La sédentarisation crée la *condition* d’une future régulation des déplacements.
+
+---
+
+## Naissance du contrôle des mobilités  
+
+- **Lettre de sûreté** (Moyen‑Âge) : autorisation locale de passage entre seigneuries.  
+- **Période moderne (XVIIᵉ – XIXᵉ s.)** :  
+  - **Napoléon I (1806)** impose le *passe‑port* obligatoire, registre municipal, description physique.  
+  - Le document devient le **premier lien officiel entre individu et État**.  
+
+> Le passeport apparaît comme **outil de pouvoir** : il identifie, surveille et, surtout, **exclut**.
+
+> *Sources :* Wimmer & Glick Schiller 2002 – montre l’évolution des dispositifs d’identification dans le cadre de la construction de l’État‑nation; Atak 2021 (p. 4‑5) décrit les exigences actuelles de l’espace Schengen.
+
+---
+
+## L’État‑nation et la fixation des frontières  
+
+- **Traité de Westphalie (1648)** : souveraineté territoriale reconnue, frontières « délimitées » entre États.  
+- **XIXᵉ siècle** : colonisation → tracé de frontières arbitraires, souvent sans tenir compte des réalités ethniques ou géographiques.  
+- **Après‑WWI** : création de la Société des Nations → premiers passeports « internationaux » pour les réfugiés.  
+
+> L’État‑nation transforme la frontière d’un **repère militaire** en **délimitation juridique** et **instrument de souveraineté**.
+
+## De Westphalie à Schengen : la transformation des frontières {.scrollable}
+
+| Étape | Date | Principaux changements |
+|------|------|------------------------|
+| **Traité de Westphalie** | 1648 | Instaure la souveraineté territoriale des États‑nations ; les frontières deviennent « délimitées ». |
+| **19ᵉ siècle** | 1800‑1900 | Multiplication des passeports, contrôle douanier et douanes nationales. |
+| **Création de l’Union européenne** | 1957 (Traité de Rome) | Premiers accords de libre circulation des personnes entre certains États. |
+| **Espace Schengen** | 1995 (accord) | Suppression des contrôles aux frontières intérieures, harmonisation des visas et du contrôle aux frontières extérieures. |
+
+> *Référence :* Atak 2021, § II « Réglementations spécifiques à l'espace Schengen » ; Wimmer & Glick Schiller (2002) sur la « containerisation » des sociétés nationales.
+
+---
+
+## De Westphalie à Schengen : la transformation des frontières {.scrollable}
+
+**Traité de Westphalie (1648)**  
+- Pose le principe de **souveraineté territoriale** : chaque État possède des frontières clairement définies et le droit exclusif d’y exercer son autorité.  
+- Première reconnaissance juridique du **concept d’État‑nation** comme acteur autonome dans le système international.  
+
+## De Westphalie à Schengen : la transformation des frontières {.scrollable}
+
+**19ᵉ siècle : la « containerisation » des sociétés**  
+- **Industrialisation & migration massive** (≈ 30 M d’immigrés européens vers les Amériques, 1850‑1914).  
+- **Contrôle des passeports** devient la norme (voir slide précédente).  
+- **Émergence des douanes** et des **services de police frontalière** (ex. *Customs Act* britannique 1849).  
 
 ## Mécanismes de migration régulière  
-- **Visas de travail** : programmes « Seasonal Worker », « Blue Card UE », accords bilatéraux (ex. **Accord Turquie‑UE 2023**).  
-- **Programmes d’échange** : Erasmus+, JET Programme (USA‑Japon).  
+
+- **Visas de travail** – accords bilatéraux (ex. UE‑Canada, UE‑Japon) définissant quotas, durée et conditions d’emploi.  
+- **Programmes d’échange** – Erasmus+, programmes de mobilité académique et professionnelle.  
+- **Accords de réadmission/Dublin** – déterminent quel État est responsable de l’examen d’une demande d’asile (voir Atak 2021, p. 6).  
+
+> *Note :* La plupart de ces mécanismes reposent sur le **passeport** comme preuve d’identité et de nationalité.
+
+## Le visa : norme du contrôle contemporain  
+
+- **Définition** : autorisation officielle (souvent sous forme de vignette ou d’e‑visa) délivrée par l’État d’accueil permettant l’entrée pour une durée et un motif précis.  
+- **Évolution** :  
+  - **Années 1950‑70** : visas de travail et d’études pour gérer les flux de main‑d’œuvre.  
+  - **1990‑2000** : systèmes électroniques (e‑visa, ESTA) pour accélérer le traitement.  
+  - **Aujourd’hui** : bases de données biométriques, accords de réciprocité (ex. Schengen).  
+
+> Le visa **institutionnalise la hiérarchie** des mobilités : il sépare les voyages « choisis » (tourisme, affaires) des voyages « régulés » (travail, études, asile).
+
+---
+
+## Hiérarchie des mobilités : choisis vs. forcés  
+
+| Type de mobilité | Conditions d’accès | Coût & délai | Risque d’incertitude |
+|------------------|--------------------|--------------|----------------------|
+| **Voyage touristique** (passe‑port « fort ») | Aucun visa ou visa à l’arrivée | Faible (billet d’avion) | Très faible |
+| **Travail/études** (visa) | Demande préalable, justificatif d’emploi/inscription | Modéré à élevé (frais de dossier, sponsor) | Moyen |
+| **Asile / protection** | Procédure d’asile, critères de persécution | Variable, souvent coûteux (avocats, déplacements) | Élevé |
+| **Migrants économiques de pays pauvres** | Visa requis, quotas, exigences financières | Très élevé (frais de visa 30‑150 €, transport) | Très élevé |
+| **Réfugiés & apatrides** | Pas de passe‑port, recours humanitaire | Gratuit (souvent) mais dépend de l’accueil | Extrêmement élevé |
+
+> **Triple punition** pour les ressortissants de pays à faible pouvoir de passeport : pauvreté → frais de visa → liberté restreinte.
+
+---
+
+## Géographie du pouvoir de passeport 
+
+[Passport index](www.passportindex.org/)
+
+- **Passeports « puissants »** : UE, États‑Unis, Canada, Australie, Japon – accès sans visa à 180 + pays.  
+- **Passeports « faibles »** : Afghanistan, Soudan du Sud, Yémen – accès sans visa à < 30 pays, exigences de visa coûteuses.  
+
+> La valeur du passeport **correspond** à la richesse économique du pays d’origine et à la perception de risque par les États d’accueil.
+
+---
+
+## Le visa comme instrument économique  
+
+- **Pays riches** ouvrent leurs frontières aux citoyens de pays riches : tourisme, investissements, échanges commerciaux.  
+- **Pays pauvres** sont soumis à des exigences strictes : quotas, contrôles de solvabilité, durée de séjour limitée.  
+- **Exemple d’investissement‑citoyenneté** : Malte (programme « Individual Investor Programme ») – passeport acheté contre investissement de 650 k € + contributions.  
+
+> Cela révèle une **démocratie à deux vitesses** : les droits de mobilité sont monétisés pour les plus aisés, tandis que les plus vulnérables affrontent des barrières administratives lourdes.
+
+---
+
+## Mobilités inégales : conséquences sociales  
+
+- **Frein à la mobilité professionnelle** : talents des pays à faible pouvoir de passeport rencontrent des obstacles de visa, limitant l’innovation et la redistribution des compétences.  
+- **Impact sur les droits humains** : accès limité aux soins, à l’éducation, à la protection juridique.  
+- **Effet de « brain‑drain »** : les élites migrent, laissant derrière elles des économies fragilisées.  
+
+> La hiérarchie des visas contribue à **reproduire les inégalités mondiales**.
+
+## Construction de murs
+
+**6. Données chiffrées (2022)**  
+- **Frontières extérieures surveillées** : 2 500 km de postes frontaliers, 12 000 agents Frontex.  
+- **Missions Frontex** : 1 200 opérations, plus de 250 000 interceptions de migrants irréguliers (rapport annuel 2022).  
+- **Coût moyen annuel de la coopération frontalière** : 1,2 milliard € (Commission européenne).  
 
 ## Contrôle frontalier contemporain  
-- **Frontex** (EU) – 2023 : 1 200 agents, drones, IA de détection.  
-- **Barrières physiques** : mur USA‑Mexique (≈ 1 700 km), barrière Israël‑Palestine (≈ 700 km).  
 
-> ![Mur USA‑Mexique](/images/us-mexico-wall.jpg){width=60%}  
-> *Figure 3 : Photo satellite du mur (source : USGS, 2022).*
+- **Frontex** (Agence européenne de garde-frontières et de garde-côtes) : coordination des patrouilles, partage d’informations, opérations conjointes (ex. Opération « Poseidon » en Méditerranée).  
+- **Murs et barrières physiques**  
+  - *US‑Mexique* – plus de 1 800 km de clôture, renforcée depuis 1994.  
+  - *Israël‑Palestine* – barrière de séparation (≈ 700 km) construite depuis 2002.  
+- **Technologies de surveillance** : caméras thermiques, drones, systèmes biométriques aux points de passage.  
+
+> *Sources :* Atak 2021 (p. 7‑8) décrit le rôle de Frontex et les restrictions de l’espace Schengen ; documents UNHCR Suisse (2021) détaillent les exigences de non‑discrimination aux contrôles frontaliers.
 
 ---
 
@@ -279,6 +416,14 @@ Test de notes (Speaker view s)
 ## Part des réfugiés dans la mgiration internationale
 
 ![](image/UN_Number_of_international_migrants_and_number_of_refugees_as_a_share_of_all_international_migrants.png)
+
+## Cas européen
+
+**~3%** population étrangère européene viennent **d'Europe**
+
+**~6%** population étrangère européene viennent **de pays extra-européens**
+
+![](image/asile.ch_part_de_la_population_étrangère.png)
 
 ## Pays avec la plus grande proportion de migrants
 
@@ -391,23 +536,63 @@ Test de notes (Speaker view s)
 
 [Tableau interactif](https://dtm.iom.int/europe/arrivals)
 
+**Risques**
+
+  - Passeurs:
+  - Torture:
+  - Noyade:
+  - Maltraitance:
+
+## Loterie de l'asile
+
+**Malgré un réglement Dublin commun, une divergence de pratiques**
+
+![](image/asile.ch_loterie_asile.png)
+
 # Migrations invisibles & marginalisées  
 
-## Mobilité « expat » vs migration : dépolitisée  
+La concentration sur un type de migration met de côté d'autres formes de mobilité:
 
-- **Expatriés hautement qualifiés** (Tech, Finance) : 5,4 M personnes (2022) ; souvent exclues des débats publics⁹.  
-- **Pourquoi ?** : visas « premium », couverture médiatique limitée, perception d’« investissement » plutôt que de « déplacement ».  
+  - De qui ne parle-t-on pas?
+  - De quoi ne parle-t-on pas?
 
-> ![Expat map](/images/expat-world.png){width=80%}  
-> *Figure 5 : Concentration d’expatriés (source : OECD 2022).*
+## Biais dans la migration
+
+- Intéret que pour les migration Sud-Nord
+- Majorité des centre de recherche en migration dans les pays du Nord
+
+## Des déplacements effacés
+
+![](image/asile.ch_frontex_carte_biaisée.png)
+
+![](image/asile.ch_irakien_correct.png)
+
+## Migration majoritairement limitrophe
+
+**Sans parler des déplacés internes**
+
+![](image/asile.ch_irakien_limitrophe.jpg)
 
 ## Migrations internes en Afrique  
 
 - **Rural‑Urbain** : + 30 % d’urbanisation (1990‑2020) ; 200 M déplacements internesⁱ⁰.  
-- **Dynamiques climatiques** : sécheresses du Sahel (2021‑2023) → 12 M déplacés internesⁱ¹.  
+- **Dynamiques climatiques** : sécheresses du Sahel (2021‑2023) → 12 M déplacés internes.  
 
-> ![Urbanisation Afrique](/images/africa-urban.png){width=70%}  
-> *Figure 6 : Croissance urbaine (World Bank, 2023).*
+## Mineurs non-accompagnés
+
+Définition: 
+
+## Mineurs non-accompagnés
+
+![](image/asile.ch_mineurs_non_accompagnés_parts.jpg)
+
+## Mineurs non-accompagnés
+
+![](image/asile.ch_rmna_parcours.jpg)
+
+## Femmes migrantes
+
+
 
 ## Sans‑papier – profils & stratégies  
 
@@ -426,9 +611,20 @@ Test de notes (Speaker view s)
 > ![Routes climatiques](/images/climate-migration.png){width=80%}  
 > *Figure 7 : Scénario de migration climatique (source : IPCC 2022).*
 
----
+## Mobilité « expat » vs migration : dépolitisée  
 
-Perspectives critiques (voix dissidentes)  
+- **Expatriés hautement qualifiés** (Tech, Finance) : 5,4 M personnes (2022) ; souvent exclues des débats publics⁹.  
+- **Pourquoi ?** : visas « premium », couverture médiatique limitée, perception d’« investissement » plutôt que de « déplacement ».  
+
+> *Figure 5 : Concentration d’expatriés (source : OECD 2022).*
+
+## De quoi parle-t-on rarement?
+
+- Contribution économique
+
+- Perte de talents
+
+- Dignité
 
 ## Contributions économiques des migrants  
 
@@ -455,7 +651,7 @@ Perspectives critiques (voix dissidentes)
 
 ---
 
-Conclusion – Futur de la migration  
+# Futur de la migration
 
 ## Tendances démographiques & économiques  
 
