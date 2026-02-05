@@ -104,19 +104,21 @@ Test de notes (Speaker view s)
 
 -   **Demandeurs d’asile**
     -   Individus qui sollicitent la **protection internationale** mais dont le **statut** n’est **pas encore reconnu**.\
-    -   Soumis à une procédure d’examen (ex. Dublin Regulation en Europe).
+    -   Soumis à une procédure d’examen (ex. accord Dublin).
+    
+![](image/asile.ch_entrée_différente.jpg){.absolute right=0px width=40%}
 
 ## La migration, un enjeu politique majeur {auto-animate="true"}
 
 - **Politique**
+  - Touche de nombreux domaines de nos sociétés
   - Des mouvements politiques se forment sur ce sujet
-  - Touche de nombreux domaines de nos sociiétés
 
 ## La migration, un enjeu politique majeur {auto-animate="true"}
 
 - **Politique**
+  - Touche de nombreux domaines de nos sociétés
   - Des mouvements politiques se forment sur ce sujet
-  - Touche de nombreux domaines de nos sociiétés
 
 - **Médiatisation**
     -   Les médias amplifient les récits dominants
@@ -141,7 +143,7 @@ Test de notes (Speaker view s)
 
 - Souveraineté vs droit international
 
-- Devoir (viellisement de la population, aide) vs Identité
+- Devoir vs Identité
 :::
 
 ## Migration dans les médias
@@ -166,7 +168,7 @@ Test de notes (Speaker view s)
 ## Migration dans les médias: Terminologie amalgamée {auto-animate=true}
 
 - **"Illégal"**
-  
+
 ## Migration dans les médias: Terminologie amalgamée {auto-animate=true}
 
 - **"Illégal"**
@@ -180,6 +182,15 @@ Test de notes (Speaker view s)
 
   - Perçu comme **faute morale et légale**
   - Masquant la **légitimité juridique**
+  - Préférer: **Migration irrégulière**
+  
+## Migration dans les médias: Terminologie amalgamée {auto-animate=true}
+
+- **"Illégal"**
+
+  - Perçu comme **faute morale et légale**
+  - Masquant la **légitimité juridique**
+  - Préférer: **Migration irrégulière**
   
 **Création du termes contradictoires comme "réfugiés illégaux"**
 
@@ -221,13 +232,309 @@ Test de notes (Speaker view s)
 | **Ton** | Les médias de droite affichent plus souvent des **cadres négatifs**; les médias de gauche privilégient les **cadres d’aide**. |
 | **Acteurs** | 51 % des articles citent des **politiciens**, seulement 29 % mentionnent les **réfugiés** eux‑mêmes. |
 
-## Tension 1: de quelle migration parle-t-on?
+## Tension 1: de quelle migration parle-t-on? {auto-animate=true}
 
-## Tension 2: souveraineté vs droit international
+:::: {.columns}
+
+::: {.column width=50%}
+
+:::
+
+::: {.column width=50%}
+
+:::
+
+::::
+
+## Tension 1: de quelle migration parle-t-on? {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width=50%}
+**Migration régulière**
+:::
+
+::: {.column width=50%}
+**Migration irrégulière**
+:::
+
+::::
+
+## Tension 1: de quelle migration parle-t-on? {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width=50%}
+**Migration régulière**
+
+- Migration économique / Touristique
+- Document (Passport)
+- Pays développé
+- **Mobilité** simple (Expat)
+
+:::
+
+::: {.column width=50%}
+**Migration irrégulière**
+
+- Migration d'asile
+- Difficulté d'obtention de documents
+- Pays moins développé
+- **Migration** dangereuse et difficile
+
+:::
+
+::::
+
+## Tension 1: de quelle migration parle-t-on? {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width=50%}
+**Migration régulière**
+
+- **Mobilité** simple (Expat)
+  - Courte durée
+  - Multiple
+
+:::
+
+::: {.column width=50%}
+**Migration irrégulière**
+
+- **Migration** dangereuse et difficile
+  - Longue
+  - Unique et définitive
+:::
+
+::::
+
+## Tension 2: souveraineté vs droit international {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+**Souveraineté**
+
+**Autorité** suprême et indépendante d’exercer le pouvoir politique, juridique et économique sur **son territoire** et **sa population**, sans subir d’ingérence extérieure.
+
+:::
+
+::: {.column width=50%}
+**Droit international**
+
+- **Convention de Genève**
+- **Espace Schengen**
+- **Accord Dublin**
+:::
+
+::::
+
+## Tension 2: souveraineté vs droit international {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+**Souveraineté**
+
+**Autorité** suprême et indépendante d’exercer le pouvoir politique, juridique et économique sur **son territoire** et **sa population**, sans subir d’ingérence extérieure.
+
+:::
+
+::: {.column width=50%}
+**Droit international**
+
+- **Convention de Genève**
+- **Espace Schengen**
+- **Accord Dublin**
+:::
+
+**Résultat: demande d'asile sur le territoire, mais en même temps renforcement des frontières**
+
+::::
+
+## Convention de Genève
+
+![](image/www.forumerefugies.org_convention_de_genève.png)
+
+## Espace Schengen (1995)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](image/schengen.news.jpg)
+
+::: 
+
+::: {.column width="50%"}
+
+- Libre circulation des personnes
+
+- **Réduction** des contrôles aux **frontières internes**
+
+- **Augmentation** des contrôles aux **frontières externes**
+
+:::
+
+::::
+
+## Accord Dublin (2014) {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+
+:::
+
+::: {.column width="50%"}
+
+- Règlement **européen** définissant les **règles de compétence et de procédure** en matière d’asile au sein de l’UE
+- La **demande d’asile** doit être traitée par **le premier État membre** où le demandeur est arrivé
+    - Unique traitement
+:::
+
+::::
+
+## Accord Dublin (2014) {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+
+:::
+
+::: {.column width="50%"}
+
+**Concrètement**
+
+1. **Prise d'empreinte** dans le **premier pays** où la demande est faite
+2. Empreint stoquées dans une **base de donnée (Eurodac)**
+3. Lors d'une **nouvelle demande** ailleurs on vérifie la base de données
+
+:::
+
+::::
+
+## Accord Dublin (2014) {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+
+:::
+
+::: {.column width="50%"}
+
+**Concrètement**
+
+4. Si les empreintes sont dedans Eurodac, les personnes sont **renvoyées dans le premier pays sans traitement du dossier**
+
+:::
+
+::::
+
+## Accord Dublin (2014) {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+
+**Problème: mets la pression sur les pays au frontières (Grèce, Italie, Espagne, Malte, Chypre, Hongrie)**
+
+:::
+
+::: {.column width="50%"}
+
+**Concrètement**
+
+4. Si les empreintes sont dedans Eurodac, les personnes sont **renvoyées dans le premier pays sans traitement du dossier**
+
+:::
+
+::::
+
+## Accord Dublin (2014) {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+
+**Problème: mets la pression sur les pays au frontières (Grèce, Italie, Espagne, Malte, Chypre, Hongrie)**
+
+:::
+
+::: {.column width="50%"}
+
+**Conséquences:**
+
+![Fermeture des frontières en Hongrie](image/l_expresse_hongrie_frontiere.avif)
+
+:::
+
+::::
+
+## Accord Dublin (2014) {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+
+**Problème: mets la pression sur les pays au frontières (Grèce, Italie, Espagne, Malte, Chypre, Hongrie)**
+
+:::
+
+::: {.column width="50%"}
+
+**Conséquences:**
+
+![Fermeture des frontières en Hongrie](image/l_expresse_hongrie_frontiere.avif)
+
+- Ou laisser passer les personnes
+
+:::
+
+::::
 
 ## Tension 3: devoir vs indentité
 
----
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Devoir humanitaire**
+
+![](image/manufacture.paliens.org_aquarius.jpg)
+
+:::
+
+::: {.column width="50%"}
+
+**Identité**
+
+Migration vu comme **risque**:
+
+  - Identité culturelle (langue, culture)
+  - Sécurité (attentats, criminalité)
+  - Économique (concurrence, coût)
+
+:::
+
+::::
 
 # Passports, frontières et souveraineté
 
@@ -239,27 +546,17 @@ Test de notes (Speaker view s)
 
 **Idée reçue** : les frontières seraient des **limites immuables**, héritées de la **nature**. 
 
-**Souveraineté d'un État**: Autorité exclusive d'un État sur son territoire et sa population.
+\
 
-## Les frontières sont-elles naturelles? {auto-animate=true}
+**En réalité** : les frontières sont avant tout des constructions sociales et politiques.
 
-**Idée reçue** : les frontières seraient des **limites immuables**, héritées de la **nature**. 
+## Du mouvement humain à la sédentarisation {auto-animate=true}
 
-**Souveraineté d'un État**: Autorité exclusive d'un État sur son territoire et sa population.
- 
-**En réalité** : montrer que les frontières sont avant tout des constructions sociales et politiques.
-
-## Passport?
-
-**Visa**: autorisation officielle délivrée par le gouvernement d’un pays qui permet à un étranger d’entrer, de séjourner ou de travailler sur son territoire pendant une période déterminée.
-
-**Passeport**: document d’identité officiel délivré par l’État de nationalité d’une personne.
-
-## Du mouvement humain à la sédentarisation  
-
-1. **Préhistoire** : Homo sapiens parcourt le globe (300 k ans) – aucune notion de frontière.  
-2. **Révolution néolithique (~12 ka)** : agriculture → besoin de protéger les champs → premières démarcations matérielles (piquets, fossés).  
+1. **Préhistoire** : Homo sapiens parcourt le globe – aucune notion de frontière.  
+2. **Révolution néolithique** : agriculture → besoin de protéger les champs → premières démarcations matérielles (piquets, fossés).  
 3. **Civilisations antiques** : limites fonctionnelles (ex. Limes romain) mais **pas de souveraineté territoriale** au sens moderne.  
+
+## Du mouvement humain à la sédentarisation  {auto-animate=true}
 
 > La sédentarisation crée la *condition* d’une future régulation des déplacements.
 
@@ -297,42 +594,30 @@ Test de notes (Speaker view s)
 
 > *Référence :* Atak 2021, § II « Réglementations spécifiques à l'espace Schengen » ; Wimmer & Glick Schiller (2002) sur la « containerisation » des sociétés nationales.
 
----
-
-## De Westphalie à Schengen : la transformation des frontières {.scrollable}
-
-**Traité de Westphalie (1648)**  
-- Pose le principe de **souveraineté territoriale** : chaque État possède des frontières clairement définies et le droit exclusif d’y exercer son autorité.  
-- Première reconnaissance juridique du **concept d’État‑nation** comme acteur autonome dans le système international.  
-
-## De Westphalie à Schengen : la transformation des frontières {.scrollable}
-
-**19ᵉ siècle : la « containerisation » des sociétés**  
-- **Industrialisation & migration massive** (≈ 30 M d’immigrés européens vers les Amériques, 1850‑1914).  
-- **Contrôle des passeports** devient la norme (voir slide précédente).  
-- **Émergence des douanes** et des **services de police frontalière** (ex. *Customs Act* britannique 1849).  
-
 ## Mécanismes de migration régulière  
 
 - **Visas de travail** – accords bilatéraux (ex. UE‑Canada, UE‑Japon) définissant quotas, durée et conditions d’emploi.  
 - **Programmes d’échange** – Erasmus+, programmes de mobilité académique et professionnelle.  
-- **Accords de réadmission/Dublin** – déterminent quel État est responsable de l’examen d’une demande d’asile (voir Atak 2021, p. 6).  
 
 > *Note :* La plupart de ces mécanismes reposent sur le **passeport** comme preuve d’identité et de nationalité.
 
+## Passport? Visa?
+
+**Visa**: **autorisation officielle** délivrée par le gouvernement d’un pays qui permet à un étranger d’entrer, de **séjourner** ou de **travailler** sur son territoire pendant une période déterminée.
+
+**Passeport**: document d’identité officiel délivré par l’État de nationalité d’une personne.
+
+![](image/passportindex.org_suisse.png){.absolute right=0px width=20%}
+
 ## Le visa : norme du contrôle contemporain  
 
-- **Définition** : autorisation officielle (souvent sous forme de vignette ou d’e‑visa) délivrée par l’État d’accueil permettant l’entrée pour une durée et un motif précis.  
-- **Évolution** :  
-  - **Années 1950‑70** : visas de travail et d’études pour gérer les flux de main‑d’œuvre.  
-  - **1990‑2000** : systèmes électroniques (e‑visa, ESTA) pour accélérer le traitement.  
-  - **Aujourd’hui** : bases de données biométriques, accords de réciprocité (ex. Schengen).  
+**Base**: une **durée** et un **motif** précis 
 
-> Le visa **institutionnalise la hiérarchie** des mobilités : il sépare les voyages « choisis » (tourisme, affaires) des voyages « régulés » (travail, études, asile).
+\
 
----
+Le visa **institutionnalise la hiérarchie** des mobilités : il sépare les voyages « choisis » (tourisme, affaires) des voyages « régulés » (travail, études, asile).
 
-## Hiérarchie des mobilités : choisis vs. forcés  
+## Hiérarchie des mobilités : choisis vs. forcés  {.scrollable}
 
 | Type de mobilité | Conditions d’accès | Coût & délai | Risque d’incertitude |
 |------------------|--------------------|--------------|----------------------|
@@ -344,55 +629,73 @@ Test de notes (Speaker view s)
 
 > **Triple punition** pour les ressortissants de pays à faible pouvoir de passeport : pauvreté → frais de visa → liberté restreinte.
 
----
-
 ## Géographie du pouvoir de passeport 
 
-[Passport index](www.passportindex.org/)
+[Passport index](https://www.passportindex.org/)
 
 - **Passeports « puissants »** : UE, États‑Unis, Canada, Australie, Japon – accès sans visa à 180 + pays.  
 - **Passeports « faibles »** : Afghanistan, Soudan du Sud, Yémen – accès sans visa à < 30 pays, exigences de visa coûteuses.  
 
 > La valeur du passeport **correspond** à la richesse économique du pays d’origine et à la perception de risque par les États d’accueil.
 
----
+## Le visa comme instrument économique {auto-animate=true}
 
-## Le visa comme instrument économique  
+- **Pays** ouvrent leurs frontières aux citoyens de **pays riches** : tourisme, investissements, échanges commerciaux.  
+- **Pays pauvres** sont soumis à des exigences strictes : quotas, contrôles de solvabilité, durée de séjour limitée.
 
-- **Pays riches** ouvrent leurs frontières aux citoyens de pays riches : tourisme, investissements, échanges commerciaux.  
-- **Pays pauvres** sont soumis à des exigences strictes : quotas, contrôles de solvabilité, durée de séjour limitée.  
-- **Exemple d’investissement‑citoyenneté** : Malte (programme « Individual Investor Programme ») – passeport acheté contre investissement de 650 k € + contributions.  
+## Le visa comme instrument économique {auto-animate=true}
 
-> Cela révèle une **démocratie à deux vitesses** : les droits de mobilité sont monétisés pour les plus aisés, tandis que les plus vulnérables affrontent des barrières administratives lourdes.
+- **Pays** ouvrent leurs frontières aux citoyens de **pays riches** : tourisme, investissements, échanges commerciaux.  
+- **Pays pauvres** sont soumis à des exigences strictes : quotas, contrôles de solvabilité, durée de séjour limitée.
 
----
+**Donc pour des raisons économiques**
+
+## Le visa comme instrument économique {auto-animate=true} 
+
+**Le cas de l'Espagne**
+
+**Régime de résidence raccourci**: Les citoyens des pays ibéro‑américains (Argentine, Brésil, Colombie, Mexique, etc.) peuvent demander la **nationalité espagnole après seulement deux années** de résidence légale, contre dix ans pour la plupart des autres nationalités.
+
+  - Pas de test linguistique
+
+## Le visa comme instrument économique {auto-animate=true} 
+
+Achat de citoyenneté  
+
+- **Exemple d’investissement‑citoyenneté** : Malte (programme « Individual Investor Programme ») – passeport acheté contre investissement + contributions.  
+
+\
+
+Cela révèle une **démocratie à deux vitesses** : les droits de mobilité sont monétisés pour les plus aisés, tandis que les plus vulnérables affrontent des barrières administratives lourdes.
 
 ## Mobilités inégales : conséquences sociales  
 
 - **Frein à la mobilité professionnelle** : talents des pays à faible pouvoir de passeport rencontrent des obstacles de visa, limitant l’innovation et la redistribution des compétences.  
 - **Impact sur les droits humains** : accès limité aux soins, à l’éducation, à la protection juridique.  
-- **Effet de « brain‑drain »** : les élites migrent, laissant derrière elles des économies fragilisées.  
+- **Effet de « brain‑drain »** : les élites migrent, laissant derrière elles des économies fragilisées. 
 
-> La hiérarchie des visas contribue à **reproduire les inégalités mondiales**.
+## Mobilités inégales : conséquences sociales  
 
-## Construction de murs
-
-**6. Données chiffrées (2022)**  
-- **Frontières extérieures surveillées** : 2 500 km de postes frontaliers, 12 000 agents Frontex.  
-- **Missions Frontex** : 1 200 opérations, plus de 250 000 interceptions de migrants irréguliers (rapport annuel 2022).  
-- **Coût moyen annuel de la coopération frontalière** : 1,2 milliard € (Commission européenne).  
+La hiérarchie des mobilités contribue à **reproduire les inégalités mondiales**.
 
 ## Contrôle frontalier contemporain  
 
-- **Frontex** (Agence européenne de garde-frontières et de garde-côtes) : coordination des patrouilles, partage d’informations, opérations conjointes (ex. Opération « Poseidon » en Méditerranée).  
-- **Murs et barrières physiques**  
-  - *US‑Mexique* – plus de 1 800 km de clôture, renforcée depuis 1994.  
-  - *Israël‑Palestine* – barrière de séparation (≈ 700 km) construite depuis 2002.  
-- **Technologies de surveillance** : caméras thermiques, drones, systèmes biométriques aux points de passage.  
+Plus de murs
 
-> *Sources :* Atak 2021 (p. 7‑8) décrit le rôle de Frontex et les restrictions de l’espace Schengen ; documents UNHCR Suisse (2021) détaillent les exigences de non‑discrimination aux contrôles frontaliers.
+![](image/radiofrance__murs_dans_le_monde.jpg){width=50%}
 
----
+## Frontex
+
+![](image/migration_home_affairs_eu_Frontex-logo.png){width=40%}
+
+- **Frontières extérieures surveillées** : 2 500 km de postes frontaliers, 12 000 agents Frontex. (rapport annuel 2022)  
+- **Missions Frontex** : 1 200 opérations, plus de 250 000 interceptions de migrants irréguliers (rapport annuel 2022) 
+
+## Budget Frontex
+
+Malgré des cas de *refoulement illégaux*, de *maltraitance*, de *manque de transparence* et *abus de pouvoir*, **le budget augmente**
+
+![](image/statista_frontex_budget.png)
 
 # Migration internationale au XXIe siècle
 
@@ -405,25 +708,35 @@ Test de notes (Speaker view s)
 | **Globalisation néolibérale (1980‑2000)** | Accords de libre‑échange, mobilité qualifiée | Chine → USA (tech), Philippines → Gulf |
 | **Hyper‑connectivité (2000‑présent)** | Internet, réseaux sociaux, mobilité rapide | Réseaux de passeurs numériques, migration climatique |
 
-## Migration intenrationale globale
+## Migration internationale globale
 
 ![](image/IOM_international_migration_evolution.png)
+
+**2024: 304 Mio (3.7%)**
 
 ## Proportion de migrants internationaux
 
 ![](image/IOM_proportion_of_international_migrants.png)
 
-## Part des réfugiés dans la mgiration internationale
+## Part de l'asile dans la migration internationale
 
 ![](image/UN_Number_of_international_migrants_and_number_of_refugees_as_a_share_of_all_international_migrants.png)
 
-## Cas européen
+## Cas européen {.scrollable}
 
-**~3%** population étrangère européene viennent **d'Europe**
+**~7%** Étrangers
 
-**~6%** population étrangère européene viennent **de pays extra-européens**
+dont **4.5%** Non-Européens
 
-![](image/asile.ch_part_de_la_population_étrangère.png)
+**0.6%** demandeurs d'asiles
+
+![](image/asile.ch_part_de_la_population_étrangère.png){.absolute width=70%}
+
+## Nationalités non-EU
+
+![](image/eurostat_Top_nationalities_of_non-EU_citizens_that_are_usual_residents_in_the_EU_as_of_1_January_2024_(million)_rev5.png)
+
+**Suisse: **
 
 ## Pays avec la plus grande proportion de migrants
 
@@ -431,7 +744,7 @@ Test de notes (Speaker view s)
 
 ## Nombre de migrants internationnaux par région d'origine {.scrollable}
 
-![](image/UN_Number_of_international_migrants_by_region_of_origin_and_destination_2024.png){width=80%}
+![](image/UN_Number_of_international_migrants_by_region_of_origin_and_destination_2024.png){.absolute width=80%}
 
 ## Corridors majeurs aujourd’hui (cartes interactives) {.scrollable}
 
@@ -440,8 +753,6 @@ Test de notes (Speaker view s)
 | **Afrique → Europe (Méditerranée)** | Libye, Tunisie, Maroc | Italie, Grèce, Espagne | **≈ 2,1 M** (arrivées totales)⁴ | ![Méditerranée](/images/med-corridor.png){width=70%} |
 | **Amérique latine → USA** | Mexique, Guatemala, Honduras | États‑Unis (Californie, Texas) | **≈ 1,8 M** (arrivées régulières + irrégulières)⁵ | ![MEX‑USA](/images/latam-us.png){width=70%} |
 | **Asie → Moyen‑Orient** | Afghanistan, Pakistan, Iran | Turquie, Arabie Saoudite | **≈ 2,3 M** (travailleurs temporaires)⁶ | ![Asia‑ME](/images/asia-me.png){width=70%} |
-| **Balkans** | Grèce, Albanie | Allemagne, Suède | **≈ 800 k** (flux 2022)⁷ | ![Balkans](/images/balkans-route.png){width=70%} |
-| **Afrique de l’Ouest → Canaries** | Sénégal, Mauritanie | Îles Canaries (Espagne) | **≈ 70 k** (2022)⁴ | ![Canaries](/images/canaries.png){width=70%} |
 
 > **Sources** : IOM DTM 2024 (corridors), UN DESA 2023 (stocks), Eurostat 2023 (flux intra‑UE).
 
@@ -515,22 +826,21 @@ Test de notes (Speaker view s)
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Asile – routes et politiques européennes  
-
-- **Procédure de Dublin** (1990) : le premier État d’entrée est responsable.  
-- **Accord UE‑Turquie (2020)** : 40 % des arrivées en Grèce sont redirigées vers la Turquie.  
-- **Statistiques de mortalité Méditerranée** : 3 500 décès (2022) ; taux de mortalité **+ 12 %** depuis 2015⁸.  
-
-> ![Mortalité Méditerranée](/images/med-deaths.png){width=80%}  
-> *Figure 4 : Décès par année (source : IOM Missing Migrants Project).*
-
 ## Pays de provenances des principales routes migratoires
 
 ![](image/IOM_DMT_Countries_or_areas_of_origin.png)
 
-## Points d'arriver en Europe par toute migratoires
+## Points d'arriver en Europe par route migratoire
 
 ![](image/IOM_DMT_Arrivals_to_Europe.png)
+
+## Nombre de demandeurs d'asile
+
+![](image/les_echos_demandes_asile.jpg)
+
+## Nombre de demandeurs d'asile
+
+![](image/avenir_suisse_demandeurs_d_asile_fr.png)
 
 ## Évolution des arrivées et du nombre de décès
 
@@ -538,10 +848,32 @@ Test de notes (Speaker view s)
 
 **Risques**
 
-  - Passeurs:
-  - Torture:
-  - Noyade:
-  - Maltraitance:
+  - Exploitation
+  - Violence/Torture
+  - Viole
+  
+## Risques sanitaires et sécuritaires en route {.scrollable}
+
+- **Routes terrestres** (ex. Balkans, traversées du désert)  
+  - Exposition à la violence des groupes criminels, enlèvements, extorsion  
+  - Risques de **traumatismes psychologiques** 
+
+- **Traversées en mer**  
+  - Moyenne ≈ 3 % de décès parmi les migrants en Méditerranée (UN Migration Report 2022).  
+  - Conditions de surcharge des bateaux de fortunes → hypothermie, déshydratation, maladies infectieuses.  
+
+## Refoulement (push‑back)
+
+- **Refoulement** : renvoi d’une personne vers un pays où elle risque d’être persécutée ou exposée à des risques graves, **sans examen individuel de sa demande d’asile** (art. 33 de la Convention de Genève).  
+- Pratique interdite par le droit international humanitaire et les conventions européennes (Charte des droits fondamentaux de l’UE, Directive 2013/32).
+
+## Refoulement (push‑back)
+
+**Chiffres clés** 
+
+- Plus de **1 000** incidents de push‑back signalés par la garde côtière turque depuis 2020.  
+
+- Au moins **14** décès confirmés liés à ces pratiques (avril 2022).  
 
 ## Loterie de l'asile
 
@@ -549,12 +881,68 @@ Test de notes (Speaker view s)
 
 ![](image/asile.ch_loterie_asile.png)
 
+## Le cas de l'Ukraine
+
+**24 février 2022**: Attaque Russe entraînant un grand mouvement de population
+
+![](image/migration_policy_center_eu_ukraine_solidarity.jpg)
+
+## Migration ukrainienne contexte
+
+- Depuis février 2022, plus de **8 millions** de personnes ont fui l’Ukraine (UNHCR).
+- L’Union européenne a activé le **statut de protection temporaire** pour les Ukrainiens, garantissant :
+  - Droit de séjour de **jusqu’à 3 ans** sans procédure d’asile individuelle.
+  - Accès immédiat au marché du travail, à la santé et à l’éducation.
+  
+  
+## Données contrastées {.scrollable}
+
+| Groupe de réfugiés | Nombre estimé (2023) | Taux d’acceptation dans l’UE* |
+|--------------------|----------------------|------------------------------|
+| Ukrainiens         | 8 M+                 | > 90 % (mise à disposition de places d’hébergement, allocation de protection temporaire) |
+| Syriens            | 5,6 M                | ≈ 30 % (nombre de demandes d’asile acceptées) |
+| Afghans            | 2,5 M                | ≈ 20 % (procédures d’asile en cours, nombreux retours forcés) |
+
+\*Sources : Eurostat, Office européen de lutte antidiscrimination (ELAD), UNHCR. Les taux d’acceptation reflètent les décisions finales d’asile ou de protection temporaire accordées par les États membres.
+
+## Pourquoi ce paradoxe ? {auto-animate=true}
+
+- La **proximité géographique** et **culturelle** a renforcé le sentiment d’urgence
+
+- La directive européenne sur la **protection temporaire (2001)** a été appliquée **rapidement**, alors que les procédures d’asile classiques restent **lentes et fragmentées**.
+
+## Pourquoi ce paradoxe ? {auto-animate=true}
+
+**Narratif différencié**  
+
+   - **réfugiés ukrainiens**: victimes d’une agression extérieure
+   - **réfugiés d’autres régions**: migration économique / instabilité interne
+
+## Pourquoi ce paradoxe ? {auto-animate=true}
+
+**Narratif différencié**  
+
+   - **réfugiés ukrainiens**: victimes d’une agression extérieure
+   - **réfugiés d’autres régions**: migration économique / instabilité interne
+
+**Migration féminine et "européen" vs imaginaire masculin et non-européen**
+
+## Message
+
+\
+\
+\
+
+**Les moyens sont disponibles, l'accueil est un choix**
+
 # Migrations invisibles & marginalisées  
+
+## Contexte
 
 La concentration sur un type de migration met de côté d'autres formes de mobilité:
 
-  - De qui ne parle-t-on pas?
-  - De quoi ne parle-t-on pas?
+  - **De qui** ne parle-t-on pas?
+  - **De quoi** ne parle-t-on pas?
 
 ## Biais dans la migration
 
@@ -563,9 +951,23 @@ La concentration sur un type de migration met de côté d'autres formes de mobil
 
 ## Des déplacements effacés
 
+:::: {.columns}
+
+::: {.column width="50%"}
+
 ![](image/asile.ch_frontex_carte_biaisée.png)
 
+:::
+
+::: {.column width="50%"}
+
 ![](image/asile.ch_irakien_correct.png)
+
+:::
+
+::::
+
+
 
 ## Migration majoritairement limitrophe
 
@@ -573,28 +975,47 @@ La concentration sur un type de migration met de côté d'autres formes de mobil
 
 ![](image/asile.ch_irakien_limitrophe.jpg)
 
-## Migrations internes en Afrique  
+## Mineurs non-accompagnés {auto-animate=true}
 
-- **Rural‑Urbain** : + 30 % d’urbanisation (1990‑2020) ; 200 M déplacements internesⁱ⁰.  
-- **Dynamiques climatiques** : sécheresses du Sahel (2021‑2023) → 12 M déplacés internes.  
+![](image/des-migrants-arrives-a-Ceuta-le-18-mai-202.jpg)
 
-## Mineurs non-accompagnés
+## Mineurs non-accompagnés {auto-animate=true}
 
-Définition: 
+**Définition**: personne de moins de 18 ans qui se trouve sur le territoire d’un pays d’accueil
 
-## Mineurs non-accompagnés
+Le Mineur Non-accompagné est considéré comme **vulnérable** et bénéficie d’une **protection spéciale** en vertu du droit international (Convention relative aux droits de l’enfant, Convention de Genève sur les réfugiés, etc.)
+
+## Mineurs non-accompagnés {auto-animate=true}
 
 ![](image/asile.ch_mineurs_non_accompagnés_parts.jpg)
 
-## Mineurs non-accompagnés
+## Mineurs non-accompagnés {auto-animate=true}
 
 ![](image/asile.ch_rmna_parcours.jpg)
 
 ## Femmes migrantes
 
+:::: {.columns}
 
+::: {.column width="50%"}
 
-## Sans‑papier – profils & stratégies  
+![](image/lemonde_femme_migrante-04-01-06.avif)
+
+:::
+
+::: {.column width="50%"}
+
+**Risques spéficiques**
+
+- **Violence de genre**  (viole et agression)
+- **Exploitation**
+- **Enlèvement**
+
+:::
+
+::::
+
+## Sans‑papier {.scrollable}
 
 | Profil | Pays d’origine | Stratégie de survie | Impact des politiques |
 |--------|----------------|---------------------|-----------------------|
@@ -602,21 +1023,17 @@ Définition:
 | **Étudiants en situation irrégulière** | Syrie, Afghanistan | Travail au noir, réseaux communautaires | Exclusion du système de protection sociale |
 | **Familles recomposées** | Nigéria, Ghana | Logement partagé, micro‑entreprises | Vulnerabilité accrue aux expulsions |
 
-> **Étude de cas** : Programme de régularisation de l’Italie (2022) a permis à **≈ 12 000** sans‑papier d’obtenir un permis de séjour, réduisant de **45 %** les expulsions locales¹².
+> **Étude de cas** : Programme de régularisation de l’Italie (2022) a permis à **≈ 12 000** sans‑papier d’obtenir un permis de séjour, réduisant de **45 %** les expulsions locales
 
 ## Migration climatique – routes émergentes (2030‑2050)  
 
-- **Sahel → Méditerranée** (désertification, perte de terres agricoles) – projection : **+ 3 M** de migrants climatiques d’ici 2050 (World Bank 2021)¹³.  
+- **Sahel → Méditerranée** (désertification, perte de terres agricoles) – projection : **+ 3 M** de migrants climatiques d’ici 2050 (World Bank 2021).  
 - **Bangladesh → Inde/Malaisie** (élévation du niveau de la mer) – **≈ 1,5 M** d’internes déplacés d’ici 2040 (IPCC 2022)¹⁴.  
-> ![Routes climatiques](/images/climate-migration.png){width=80%}  
-> *Figure 7 : Scénario de migration climatique (source : IPCC 2022).*
 
 ## Mobilité « expat » vs migration : dépolitisée  
 
-- **Expatriés hautement qualifiés** (Tech, Finance) : 5,4 M personnes (2022) ; souvent exclues des débats publics⁹.  
+- **Expatriés hautement qualifiés** (Tech, Finance) : 5,4 M personnes (2022) ; souvent exclues des débats publics 
 - **Pourquoi ?** : visas « premium », couverture médiatique limitée, perception d’« investissement » plutôt que de « déplacement ».  
-
-> *Figure 5 : Concentration d’expatriés (source : OECD 2022).*
 
 ## De quoi parle-t-on rarement?
 
@@ -628,28 +1045,8 @@ Définition:
 
 ## Contributions économiques des migrants  
 
-- **Fiscalité** : + € 150 M de recettes annuelles en France (2022) provenant de travailleurs étrangers¹⁵.  
+- **Fiscalité** : Contribution au marché du travail
 - **Innovation** : 30 % des brevets déposés en UE (2015‑2020) attribués à des équipes incluant au moins un migrant¹⁶.  
-
-## Narratives anti‑migration : analyse des discours populistes  
-
-| Pays | Slogan populiste | Thème dominant | Analyse (Mudde & Kaltwasser 2021) |
-|------|------------------|----------------|-----------------------------------|
-| USA | “Build the Wall” | Sécurité & souveraineté | Construction d’un **ennemi externe** simplifié. |
-| Hongrie | “Stop the Flood” | Crise migratoire | **Métaphore de l’invasion**, absence de données factuelles. |
-| Italie | “Chiudiamo le porte” | Identité culturelle | **Appréhension de la perte d’identité**, utilisation de statistiques sélectives. |
-
-## Alternatives de gouvernance – “Migration Managed Commons”  
-
-- **Principe** : ressources migratoires gérées comme un bien commun, partage des coûts et bénéfices entre États (Baldwin & Evenett 2020).  
-- **Modèles pilotes** :  
-  - **Accord Canada‑Mexique 2023** – quotas flexibles, mécanisme de redistribution des frais de réinstallation.  
-  - **Programme “Mobility Partnership” UE‑Afrique de l’Ouest (2022‑2025)** – financement conjoint pour formation professionnelle et retour volontaire.  
-
-> ![Managed Commons diagram](/images/managed-commons.png){width=80%}  
-> *Figure 8 : Schéma de gouvernance partagée (source : Baldwin & Evenett 2020).*
-
----
 
 # Futur de la migration
 
@@ -671,12 +1068,16 @@ Définition:
 | **Co‑governance** | Adoption du modèle “Managed Commons”, partage des responsabilités. | **+ 30 M**, meilleure intégration, réduction des décès de 15 %. |
 | **Isolationist** | Renforcement des contrôles, fermeture des voies légales. | **‑ 10 M** (déplacement clandestin accru, mortalité × 2). |
 
-> **Message clé** : la trajectoire dépend davantage des **choix politiques** que des forces économiques ou climatiques seules.
-
 ---
 
-## Bibliographie (extraits)  
+# Merci pour votre attention!
 
+## Sources {.scrollable}
+
+::: {#refs}
+:::
+
+::: aside
 1. OECD, *Fiscal Effects of Migration*, 2022.  
 2. Brücker, C. & Zimmermann, K., *Economic Contributions of Migrants*, OECD Working Papers, 2022.  
 3. European Union Agency for Fundamental Rights, *Migration & Crime*, 2021.  
@@ -695,12 +1096,4 @@ Définition:
 16. European Patent Office, *Patent Statistics by Inventor Origin*, 2020‑2022.  
 17. Mudde, C. & Kaltwasser, C., *Populism: A Very Short Introduction*, 2021.  
 18. Baldwin, R. & Evenett, S., *Migration Managed Commons*, 2020.  
-
----
-
-# Merci pour votre attention!
-
-## Sources {.scrollable}
-
-::: {#refs}
 :::
