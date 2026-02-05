@@ -46,8 +46,6 @@ nocite: |
 5.  https://www.theglobeandmail.com/world/article-central-american-migrants-pack-shelters-as-caravan-arrives-at-mexican/
 :::
 
-------------------------------------------------------------------------
-
 ## Qu’est‑ce que la migration ? {#def-migrants auto-animate="true"}
 
 **Migrants**
@@ -77,10 +75,6 @@ Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (tra
 Pas forcément en situation **irrégulière**
 
   - **Visa** ou **permis de séjour**
-
-::: notes
-Test de notes (Speaker view s)
-:::
 
 ## Qu’est‑ce que la migration ? {#def-refugies auto-animate="true"}
 
@@ -215,7 +209,7 @@ Test de notes (Speaker view s)
 
 ## Migration dans les médias: Cadre médiatique : quels récits ? {.scrollable}
 
-> [*Étude comparative « Migration coverage in Europe’s media » (2020).* 2015-2018](https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/02_Wissenschaftsportal/03_Publikationen/AP39_Migration_EN.pdf)
+> [*Étude comparative "Migration coverage in Europe’s media" (2020).* 2015-2018](https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/02_Wissenschaftsportal/03_Publikationen/AP39_Migration_EN.pdf)
 
 - Couverture médiatique **majoritairement négative**
 - **Migrants vu comme une masse/vague** plutôt que comme des individus
@@ -223,7 +217,7 @@ Test de notes (Speaker view s)
 
 ## Migration dans les médias: Cadre médiatique : quels récits ? {.scrollable}
 
-> [*Étude comparative « Migration coverage in Europe’s media » (2020).* 2015-2018](https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/02_Wissenschaftsportal/03_Publikationen/AP39_Migration_EN.pdf)
+> [*Étude comparative "Migration coverage in Europe’s media" (2020).* 2015-2018](https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/02_Wissenschaftsportal/03_Publikationen/AP39_Migration_EN.pdf)
 
 | Axe d’analyse | Observation principale (documents) |
 |---------------|------------------------------------|
@@ -577,22 +571,20 @@ Migration vu comme **risque**:
 
 ## L’État‑nation et la fixation des frontières  
 
-- **Traité de Westphalie (1648)** : souveraineté territoriale reconnue, frontières « délimitées » entre États.  
+- **Traité de Westphalie (1648)** : souveraineté territoriale reconnue, frontières "délimitées" entre États.  
 - **XIXᵉ siècle** : colonisation → tracé de frontières arbitraires, souvent sans tenir compte des réalités ethniques ou géographiques.  
-- **Après‑WWI** : création de la Société des Nations → premiers passeports « internationaux » pour les réfugiés.  
-
-> L’État‑nation transforme la frontière d’un **repère militaire** en **délimitation juridique** et **instrument de souveraineté**.
+- **Après‑WWI** : création de la Société des Nations → premiers passeports "internationaux" pour les réfugiés.  
 
 ## De Westphalie à Schengen : la transformation des frontières {.scrollable}
 
 | Étape | Date | Principaux changements |
 |------|------|------------------------|
-| **Traité de Westphalie** | 1648 | Instaure la souveraineté territoriale des États‑nations ; les frontières deviennent « délimitées ». |
+| **Traité de Westphalie** | 1648 | Instaure la souveraineté territoriale des États‑nations ; les frontières deviennent "délimitées". |
 | **19ᵉ siècle** | 1800‑1900 | Multiplication des passeports, contrôle douanier et douanes nationales. |
 | **Création de l’Union européenne** | 1957 (Traité de Rome) | Premiers accords de libre circulation des personnes entre certains États. |
 | **Espace Schengen** | 1995 (accord) | Suppression des contrôles aux frontières intérieures, harmonisation des visas et du contrôle aux frontières extérieures. |
 
-> *Référence :* Atak 2021, § II « Réglementations spécifiques à l'espace Schengen » ; Wimmer & Glick Schiller (2002) sur la « containerisation » des sociétés nationales.
+> *Référence :* Atak 2021, § II "Réglementations spécifiques à l'espace Schengen" ; Wimmer & Glick Schiller (2002) sur la "containerisation" des sociétés nationales.
 
 ## Mécanismes de migration régulière  
 
@@ -615,17 +607,16 @@ Migration vu comme **risque**:
 
 \
 
-Le visa **institutionnalise la hiérarchie** des mobilités : il sépare les voyages « choisis » (tourisme, affaires) des voyages « régulés » (travail, études, asile).
+Le visa **institutionnalise la hiérarchie** des mobilités : il sépare les voyages "choisis" (tourisme, affaires) des voyages "régulés" (travail, études, asile).
 
 ## Hiérarchie des mobilités : choisis vs. forcés  {.scrollable}
 
 | Type de mobilité | Conditions d’accès | Coût & délai | Risque d’incertitude |
 |------------------|--------------------|--------------|----------------------|
-| **Voyage touristique** (passe‑port « fort ») | Aucun visa ou visa à l’arrivée | Faible (billet d’avion) | Très faible |
+| **Voyage touristique** (passe‑port "fort") | Aucun visa ou visa à l’arrivée | Faible (billet d’avion) | Très faible |
 | **Travail/études** (visa) | Demande préalable, justificatif d’emploi/inscription | Modéré à élevé (frais de dossier, sponsor) | Moyen |
 | **Asile / protection** | Procédure d’asile, critères de persécution | Variable, souvent coûteux (avocats, déplacements) | Élevé |
-| **Migrants économiques de pays pauvres** | Visa requis, quotas, exigences financières | Très élevé (frais de visa 30‑150 €, transport) | Très élevé |
-| **Réfugiés & apatrides** | Pas de passe‑port, recours humanitaire | Gratuit (souvent) mais dépend de l’accueil | Extrêmement élevé |
+| **Migrants économiques de pays pauvres** | Visa requis, quotas, exigences financières | Très élevé (frais de visa 30‑150.-, transport) | Très élevé |
 
 > **Triple punition** pour les ressortissants de pays à faible pouvoir de passeport : pauvreté → frais de visa → liberté restreinte.
 
@@ -633,8 +624,8 @@ Le visa **institutionnalise la hiérarchie** des mobilités : il sépare les voy
 
 [Passport index](https://www.passportindex.org/)
 
-- **Passeports « puissants »** : UE, États‑Unis, Canada, Australie, Japon – accès sans visa à 180 + pays.  
-- **Passeports « faibles »** : Afghanistan, Soudan du Sud, Yémen – accès sans visa à < 30 pays, exigences de visa coûteuses.  
+- **Passeports "puissants"** : UE, États‑Unis, Canada, Australie, Japon – accès sans visa à 160 + pays.  
+- **Passeports "faibles"** : Afghanistan, Soudan du Sud, Yémen – accès sans visa à < 40 pays, exigences de visa coûteuses.  
 
 > La valeur du passeport **correspond** à la richesse économique du pays d’origine et à la perception de risque par les États d’accueil.
 
@@ -662,7 +653,7 @@ Le visa **institutionnalise la hiérarchie** des mobilités : il sépare les voy
 
 Achat de citoyenneté  
 
-- **Exemple d’investissement‑citoyenneté** : Malte (programme « Individual Investor Programme ») – passeport acheté contre investissement + contributions.  
+- **Exemple d’investissement‑citoyenneté** : Malte (programme "Individual Investor Programme") – passeport acheté contre investissement + contributions.  
 
 \
 
@@ -672,7 +663,7 @@ Cela révèle une **démocratie à deux vitesses** : les droits de mobilité son
 
 - **Frein à la mobilité professionnelle** : talents des pays à faible pouvoir de passeport rencontrent des obstacles de visa, limitant l’innovation et la redistribution des compétences.  
 - **Impact sur les droits humains** : accès limité aux soins, à l’éducation, à la protection juridique.  
-- **Effet de « brain‑drain »** : les élites migrent, laissant derrière elles des économies fragilisées. 
+- **Effet de "brain‑drain"** : les élites migrent, laissant derrière elles des économies fragilisées. 
 
 ## Mobilités inégales : conséquences sociales  
 
@@ -705,7 +696,7 @@ Malgré des cas de *refoulement illégaux*, de *maltraitance*, de *manque de tra
 |-------|----------------|-----------------|
 | **Industrialisation (1850‑1914)** | Recherche de main‑d’œuvre industrielle | Europe → Amériques (≈ 15 M) |
 | **Décolonisation (1945‑1975)** | Retour des colonisés, migrations de main‑d’œuvre vers métropoles | Maghreb → France, Inde → Royaume‑Uni |
-| **Globalisation néolibérale (1980‑2000)** | Accords de libre‑échange, mobilité qualifiée | Chine → USA (tech), Philippines → Gulf |
+| **Globalisation néolibérale (1980‑2000)** | Accords de libre‑échange, mobilité qualifiée | Chine → USA (tech) |
 | **Hyper‑connectivité (2000‑présent)** | Internet, réseaux sociaux, mobilité rapide | Réseaux de passeurs numériques, migration climatique |
 
 ## Migration internationale globale
@@ -787,6 +778,10 @@ dont **4.5%** Non-Européens
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+## Migration entre Nord et Sud
+
+![](image/institut_convergences_migration_Graph-1_nov-2018_image.png)
+
 ## Évolution de la migration d'asile {.scrollable}
 
 <div class='tableauPlaceholder' id='viz1770148206333' style='position: relative'><noscript><a
@@ -865,7 +860,7 @@ dont **4.5%** Non-Européens
 ## Refoulement (push‑back)
 
 - **Refoulement** : renvoi d’une personne vers un pays où elle risque d’être persécutée ou exposée à des risques graves, **sans examen individuel de sa demande d’asile** (art. 33 de la Convention de Genève).  
-- Pratique interdite par le droit international humanitaire et les conventions européennes (Charte des droits fondamentaux de l’UE, Directive 2013/32).
+- **Pratique interdite** par le droit international humanitaire et les conventions européennes (Charte des droits fondamentaux de l’UE, Directive 2013/32).
 
 ## Refoulement (push‑back)
 
@@ -1027,48 +1022,45 @@ Le Mineur Non-accompagné est considéré comme **vulnérable** et bénéficie d
 
 ## Migration climatique – routes émergentes (2030‑2050)  
 
-- **Sahel → Méditerranée** (désertification, perte de terres agricoles) – projection : **+ 3 M** de migrants climatiques d’ici 2050 (World Bank 2021).  
-- **Bangladesh → Inde/Malaisie** (élévation du niveau de la mer) – **≈ 1,5 M** d’internes déplacés d’ici 2040 (IPCC 2022)¹⁴.  
+**Causes**
 
-## Mobilité « expat » vs migration : dépolitisée  
+  - sécheresse / désertification
+  - cyclones
+  - inondations, sécheresses, incendies de forêt
+  
+**Conséquence**
+
+  - Court terme: déplacement interne
+  - Long terme: déplacement international
+
+## Mobilité "expat" vs migration : dépolitisée  
 
 - **Expatriés hautement qualifiés** (Tech, Finance) : 5,4 M personnes (2022) ; souvent exclues des débats publics 
-- **Pourquoi ?** : visas « premium », couverture médiatique limitée, perception d’« investissement » plutôt que de « déplacement ».  
+- **Pourquoi ?** : visas "premium, couverture médiatique limitée, perception d’"investissement" plutôt que de "déplacement".  
 
 ## De quoi parle-t-on rarement?
 
-- Contribution économique
+- Contribution économique (fiscalité)
 
-- Perte de talents
+- Conditions dans le pays d'origine avant/pendant/après le départ
 
-- Dignité
-
-## Contributions économiques des migrants  
-
-- **Fiscalité** : Contribution au marché du travail
-- **Innovation** : 30 % des brevets déposés en UE (2015‑2020) attribués à des équipes incluant au moins un migrant¹⁶.  
+- Dignité: droit vs besoin "qu'est-ce que ça rapporte?"
 
 # Futur de la migration
 
-## Tendances démographiques & économiques  
+## Tendances politique, démographiques & économiques  
 
-- **Vieillissement** : Europe ‑ population > 65 ans = 23 % (2030) → besoin accru de main‑d’œuvre qualifiée.  
-- **Brain‑drain/gain** : 12 % des diplômés africains émigrent (2022) ; potentiel de **remittances** ≈ US $ 850 M annuels (World Bank 2023).  
+- **Vieillissement** : Europe ‑ population > 65 ans = 23 % (2030) → besoin accru de main‑d’œuvre qualifiée
+- **Brain‑drain/gain** : 12 % des diplômés africains émigrent (2022) ; potentiel de **remittances** ≈ US $ 850 M annuels (World Bank 2023)
+- **Populisme** : hausse de partis anti‑immigration (+ 8 % des votes en UE, 2022)
 
-## Politiques & discours  
+## Points clés
 
-- **Populisme** : hausse de partis anti‑immigration (+ 8 % des votes en UE, 2022).  
-- **Réponses institutionnelles** : **Pacte mondial pour une migration sûre, ordonnée et régulière** (2023) – 5 piliers (protection, intégration, coopération).  
+- **La migration est un phénomène complexe (migration, asile, politique, etc.)**
 
-## Scénarios prospectifs (UN Population Division 2024)  
+- **La mobilité n'est pas distribuée également**
 
-| Scénario | Description | Migration nette 2030‑2050 |
-|----------|-------------|---------------------------|
-| **Business‑as‑usual** | Continuité des politiques actuelles, hausse des frontières physiques. | **+ 45 M** (principalement climatiques). |
-| **Co‑governance** | Adoption du modèle “Managed Commons”, partage des responsabilités. | **+ 30 M**, meilleure intégration, réduction des décès de 15 %. |
-| **Isolationist** | Renforcement des contrôles, fermeture des voies légales. | **‑ 10 M** (déplacement clandestin accru, mortalité × 2). |
-
----
+- **Les conséquences des migration sont multiples** 
 
 # Merci pour votre attention!
 
