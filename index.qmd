@@ -46,7 +46,7 @@ nocite: |
 5.  https://www.theglobeandmail.com/world/article-central-american-migrants-pack-shelters-as-caravan-arrives-at-mexican/
 :::
 
-## Qu’est‑ce que la migration ? {#def-migrants auto-animate="true"}
+## Qu’est‑ce que la migration ? {auto-animate="true"}
 
 **Migrants**
 
@@ -54,7 +54,7 @@ Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (tra
 
 Pas forcément en situation **irrégulière**
     
-## Qu’est‑ce que la migration ? {#def-migrants auto-animate="true"}
+## Qu’est‑ce que la migration ? {auto-animate="true"}
 
 **Migrants**
 
@@ -64,7 +64,7 @@ Personnes qui se déplacent d’un pays à un autre, quel que soit le motif (tra
 
 Pas forcément en situation **irrégulière**
 
-## Qu’est‑ce que la migration ? {#def-migrants auto-animate="true"}
+## Qu’est‑ce que la migration ? {auto-animate="true"}
 
 **Migrants**
 
@@ -76,7 +76,7 @@ Pas forcément en situation **irrégulière**
 
   - **Visa** ou **permis de séjour**
 
-## Qu’est‑ce que la migration ? {#def-refugies auto-animate="true"}
+## Qu’est‑ce que la migration ? {auto-animate="true"}
 
 **Réfugiés**
 
@@ -84,7 +84,7 @@ Pas forcément en situation **irrégulière**
   
   - Reconnaissance officielle par un État ou par le Haut Commissariat des Nations Unies pour les réfugiés (UNHCR).
 
-## Qu’est‑ce que la migration ? {#def-refugies auto-animate="true"}
+## Qu’est‑ce que la migration ? {auto-animate="true"}
 
 **Réfugiés**
 
@@ -94,13 +94,13 @@ Pas forcément en situation **irrégulière**
 
   - Reconnaissance officielle par un État ou par le Haut Commissariat des Nations Unies pour les réfugiés (UNHCR).
 
-## Qu’est‑ce que la migration ? {#def-asyle auto-animate="true"}
+## Qu’est‑ce que la migration ? {auto-animate="true"}
 
 -   **Demandeurs d’asile**
     -   Individus qui sollicitent la **protection internationale** mais dont le **statut** n’est **pas encore reconnu**.\
     -   Soumis à une procédure d’examen (ex. accord Dublin).
     
-![](image/asile.ch_entrée_différente.jpg){.absolute right=0px width=40%}
+![https://asile.ch/2022/12/29/idee-de-cadeau-de-derniere-minute-offrez-an-de-vivre-ensemble-2/](image/asile.ch_entrée_différente.jpg){.absolute right=0px width=40%}
 
 ## La migration, un enjeu politique majeur {auto-animate="true"}
 
@@ -191,9 +191,9 @@ Pas forcément en situation **irrégulière**
 ## Examples d'articles {.scrollable}
 
 ::: r-stack
-![](image/voa_réfugié_illégaux.png){.fragment width=80%}
+![https://www.voaafrique.com/a/australie-refugies-illegaux-partie-terminee/3863880.html](image/voa_réfugié_illégaux.png){.fragment width=80%}
 
-![](image/Figaro_réfugiés_illégaux.png){.fragment width=80%}
+![https://www.lefigaro.fr/international/l-allemagne-va-refouler-a-ses-frontieres-les-refugies-illegaux-20240909](image/Figaro_réfugiés_illégaux.png){.fragment width=80%}
 :::
 
 ::: aside
@@ -205,7 +205,7 @@ Pas forcément en situation **irrégulière**
 
 ## Enjeu: migration désirable vs migration indésirable
 
-![](image/le_temps_migration_illégale_vs_migration_désirable.png)
+![https://www.letemps.ch/opinions/debats/endiguer-la-migration-illegale-pour-pouvoir-continuera-respecter-notre-tradition-humanitaire](image/le_temps_migration_illégale_vs_migration_désirable.png)
 
 ## Migration dans les médias: Cadre médiatique : quels récits ? {.scrollable}
 
@@ -351,7 +351,7 @@ Pas forcément en situation **irrégulière**
 
 ## Convention de Genève
 
-![](image/www.forumerefugies.org_convention_de_genève.png)
+![https://www.forumrefugies.org/s-informer/publications/articles-d-actualites/dans-le-monde/926-70-ans-de-la-convention-de-geneve-relative-au-statut-des-refugies](image/www.forumerefugies.org_convention_de_genève.png)
 
 ## Espace Schengen (1995)
 
@@ -359,7 +359,7 @@ Pas forcément en situation **irrégulière**
 
 ::: {.column width="50%"}
 
-![](image/schengen.news.jpg)
+![https://schengenvisainfo.com/schengen-area/](image/schengen.news.jpg)
 
 ::: 
 
@@ -381,7 +381,7 @@ Pas forcément en situation **irrégulière**
 
 ::: {.column width="50%"}
 
-![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+![https://www.ouverte-souveraine.ch/blog/une-cooperation-efficace-dans-la-politique-dasile-europeenne-grace-laccord-de-dublin](image/www.ouverte-souveraine.ch_espace_Dublin.png)
 
 :::
 
@@ -400,7 +400,7 @@ Pas forcément en situation **irrégulière**
 
 ::: {.column width="50%"}
 
-![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+![https://www.ouverte-souveraine.ch/blog/une-cooperation-efficace-dans-la-politique-dasile-europeenne-grace-laccord-de-dublin](image/www.ouverte-souveraine.ch_espace_Dublin.png)
 
 :::
 
@@ -422,7 +422,7 @@ Pas forcément en situation **irrégulière**
 
 ::: {.column width="50%"}
 
-![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+![https://www.ouverte-souveraine.ch/blog/une-cooperation-efficace-dans-la-politique-dasile-europeenne-grace-laccord-de-dublin](image/www.ouverte-souveraine.ch_espace_Dublin.png)
 
 :::
 
@@ -442,7 +442,7 @@ Pas forcément en situation **irrégulière**
 
 ::: {.column width="50%"}
 
-![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+![https://www.ouverte-souveraine.ch/blog/une-cooperation-efficace-dans-la-politique-dasile-europeenne-grace-laccord-de-dublin](image/www.ouverte-souveraine.ch_espace_Dublin.png)
 
 **Problème: mets la pression sur les pays au frontières (Grèce, Italie, Espagne, Malte, Chypre, Hongrie)**
 
@@ -464,7 +464,7 @@ Pas forcément en situation **irrégulière**
 
 ::: {.column width="50%"}
 
-![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+![https://www.ouverte-souveraine.ch/blog/une-cooperation-efficace-dans-la-politique-dasile-europeenne-grace-laccord-de-dublin](image/www.ouverte-souveraine.ch_espace_Dublin.png)
 
 **Problème: mets la pression sur les pays au frontières (Grèce, Italie, Espagne, Malte, Chypre, Hongrie)**
 
@@ -486,7 +486,7 @@ Pas forcément en situation **irrégulière**
 
 ::: {.column width="50%"}
 
-![](image/www.ouverte-souveraine.ch_espace_Dublin.png)
+![https://www.ouverte-souveraine.ch/blog/une-cooperation-efficace-dans-la-politique-dasile-europeenne-grace-laccord-de-dublin](image/www.ouverte-souveraine.ch_espace_Dublin.png)
 
 **Problème: mets la pression sur les pays au frontières (Grèce, Italie, Espagne, Malte, Chypre, Hongrie)**
 
@@ -512,7 +512,7 @@ Pas forcément en situation **irrégulière**
 
 **Devoir humanitaire**
 
-![](image/manufacture.paliens.org_aquarius.jpg)
+![http://manufacture.paliens.org/2018/10/16/aquarius-humanitaire-enjeu/](image/manufacture.paliens.org_aquarius.jpg)
 
 :::
 
@@ -565,10 +565,6 @@ Migration vu comme **risque**:
 
 > Le passeport apparaît comme **outil de pouvoir** : il identifie, surveille et, surtout, **exclut**.
 
-> *Sources :* Wimmer & Glick Schiller 2002 – montre l’évolution des dispositifs d’identification dans le cadre de la construction de l’État‑nation; Atak 2021 (p. 4‑5) décrit les exigences actuelles de l’espace Schengen.
-
----
-
 ## L’État‑nation et la fixation des frontières  
 
 - **Traité de Westphalie (1648)** : souveraineté territoriale reconnue, frontières "délimitées" entre États.  
@@ -584,8 +580,6 @@ Migration vu comme **risque**:
 | **Création de l’Union européenne** | 1957 (Traité de Rome) | Premiers accords de libre circulation des personnes entre certains États. |
 | **Espace Schengen** | 1995 (accord) | Suppression des contrôles aux frontières intérieures, harmonisation des visas et du contrôle aux frontières extérieures. |
 
-> *Référence :* Atak 2021, § II "Réglementations spécifiques à l'espace Schengen" ; Wimmer & Glick Schiller (2002) sur la "containerisation" des sociétés nationales.
-
 ## Mécanismes de migration régulière  
 
 - **Visas de travail** – accords bilatéraux (ex. UE‑Canada, UE‑Japon) définissant quotas, durée et conditions d’emploi.  
@@ -599,7 +593,7 @@ Migration vu comme **risque**:
 
 **Passeport**: document d’identité officiel délivré par l’État de nationalité d’une personne.
 
-![](image/passportindex.org_suisse.png){.absolute right=0px width=20%}
+![https://www.passportindex.org/passport/switzerland/](image/passportindex.org_suisse.png){.absolute right=0px width=20%}
 
 ## Le visa : norme du contrôle contemporain  
 
@@ -611,12 +605,12 @@ Le visa **institutionnalise la hiérarchie** des mobilités : il sépare les voy
 
 ## Hiérarchie des mobilités : choisis vs. forcés  {.scrollable}
 
-| Type de mobilité | Conditions d’accès | Coût & délai | Risque d’incertitude |
+| Type de mobilité | Conditions d’accès | Coût et délai | Risque d’incertitude |
 |------------------|--------------------|--------------|----------------------|
 | **Voyage touristique** (passe‑port "fort") | Aucun visa ou visa à l’arrivée | Faible (billet d’avion) | Très faible |
 | **Travail/études** (visa) | Demande préalable, justificatif d’emploi/inscription | Modéré à élevé (frais de dossier, sponsor) | Moyen |
 | **Asile / protection** | Procédure d’asile, critères de persécution | Variable, souvent coûteux (avocats, déplacements) | Élevé |
-| **Migrants économiques de pays pauvres** | Visa requis, quotas, exigences financières | Très élevé (frais de visa 30‑150.-, transport) | Très élevé |
+| **Migrants économiques de pays pauvres** | Visa requis, quotas, exigences financières | Très élevé (frais élevés, transport) | Très élevé |
 
 > **Triple punition** pour les ressortissants de pays à faible pouvoir de passeport : pauvreté → frais de visa → liberté restreinte.
 
@@ -673,11 +667,11 @@ La hiérarchie des mobilités contribue à **reproduire les inégalités mondial
 
 Plus de murs
 
-![](image/radiofrance__murs_dans_le_monde.jpg){width=50%}
+![https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/frontieres-la-multiplication-des-murs-et-autres-barrieres-dans-le-monde-9691782](image/radiofrance__murs_dans_le_monde.jpg){width=50%}
 
 ## Frontex
 
-![](image/migration_home_affairs_eu_Frontex-logo.png){width=40%}
+![https://home-affairs.ec.europa.eu/agencies_en](image/migration_home_affairs_eu_Frontex-logo.png){width=40%}
 
 - **Frontières extérieures surveillées** : 2 500 km de postes frontaliers, 12 000 agents Frontex. (rapport annuel 2022)  
 - **Missions Frontex** : 1 200 opérations, plus de 250 000 interceptions de migrants irréguliers (rapport annuel 2022) 
@@ -686,7 +680,7 @@ Plus de murs
 
 Malgré des cas de *refoulement illégaux*, de *maltraitance*, de *manque de transparence* et *abus de pouvoir*, **le budget augmente**
 
-![](image/statista_frontex_budget.png)
+![https://de.statista.com/statistik/daten/studie/1172183/umfrage/budget-der-europaeischen-agentur-fuer-die-grenz-und-kuestenwache-frontex/](image/statista_frontex_budget.png)
 
 # Migration internationale au XXIe siècle
 
@@ -701,17 +695,17 @@ Malgré des cas de *refoulement illégaux*, de *maltraitance*, de *manque de tra
 
 ## Migration internationale globale
 
-![](image/IOM_international_migration_evolution.png)
+![https://english.europewb.org.ua/iom-has-published-the-world-migration-report-2018/](image/IOM_international_migration_evolution.png)
 
-**2024: 304 Mio (3.7%)**
+**2024: 304 Mio (3.7%)** (IOM, 2020)
 
 ## Proportion de migrants internationaux
 
-![](image/IOM_proportion_of_international_migrants.png)
+![https://english.europewb.org.ua/iom-has-published-the-world-migration-report-2018/](image/IOM_proportion_of_international_migrants.png)
 
 ## Part de l'asile dans la migration internationale
 
-![](image/UN_Number_of_international_migrants_and_number_of_refugees_as_a_share_of_all_international_migrants.png)
+![https://www.un.org/development/desa/pd/content/international-migrant-stock-2024-key-facts-and-figures](image/UN_Number_of_international_migrants_and_number_of_refugees_as_a_share_of_all_international_migrants.png)
 
 ## Cas européen {.scrollable}
 
@@ -721,31 +715,29 @@ dont **4.5%** Non-Européens
 
 **0.6%** demandeurs d'asiles
 
-![](image/asile.ch_part_de_la_population_étrangère.png){.absolute width=70%}
+![https://asile.ch/statistique/cartographier-les-migrations/cartographie-autour-du-mythe-de-l-invasion-population-etrangere-en-suisse-et-en-europe/](image/asile.ch_part_de_la_population_étrangère.png){.absolute width=70%}
+
+> Source: [https://www.youtube.com/watch?v=2JtadubUgHU](https://www.youtube.com/watch?v=2JtadubUgHU)
 
 ## Nationalités non-EU
 
 ![](image/eurostat_Top_nationalities_of_non-EU_citizens_that_are_usual_residents_in_the_EU_as_of_1_January_2024_(million)_rev5.png)
 
-**Suisse: **
-
 ## Pays avec la plus grande proportion de migrants
 
-![](image/IOM_countries_with_highest_proportion_of_foreigners.png)
+![https://english.europewb.org.ua/iom-has-published-the-world-migration-report-2018/](image/IOM_countries_with_highest_proportion_of_foreigners.png)
 
 ## Nombre de migrants internationnaux par région d'origine {.scrollable}
 
-![](image/UN_Number_of_international_migrants_by_region_of_origin_and_destination_2024.png){.absolute width=80%}
+![https://www.un.org/development/desa/pd/content/international-migrant-stock-2024-key-facts-and-figures](image/UN_Number_of_international_migrants_by_region_of_origin_and_destination_2024.png){.absolute width=80%}
 
 ## Corridors majeurs aujourd’hui (cartes interactives) {.scrollable}
 
 | Corridor | Origine | Destination | Volume 2022‑23 | Image illustrative |
 |----------|---------|-------------|----------------|--------------------|
-| **Afrique → Europe (Méditerranée)** | Libye, Tunisie, Maroc | Italie, Grèce, Espagne | **≈ 2,1 M** (arrivées totales)⁴ | ![Méditerranée](/images/med-corridor.png){width=70%} |
-| **Amérique latine → USA** | Mexique, Guatemala, Honduras | États‑Unis (Californie, Texas) | **≈ 1,8 M** (arrivées régulières + irrégulières)⁵ | ![MEX‑USA](/images/latam-us.png){width=70%} |
-| **Asie → Moyen‑Orient** | Afghanistan, Pakistan, Iran | Turquie, Arabie Saoudite | **≈ 2,3 M** (travailleurs temporaires)⁶ | ![Asia‑ME](/images/asia-me.png){width=70%} |
-
-> **Sources** : IOM DTM 2024 (corridors), UN DESA 2023 (stocks), Eurostat 2023 (flux intra‑UE).
+| **Afrique → Europe (Méditerranée)** | Libye, Tunisie, Maroc | Italie, Grèce, Espagne | **≈ 2 Mio** (arrivées totales) | Méditerranée |
+| **Amérique latine → USA** | Mexique, Guatemala, Honduras | États‑Unis (Californie, Texas) | **≈ 2 Mio** (arrivées régulières + irrégulières) | MEX‑USA |
+| **Asie → Moyen‑Orient** | Afghanistan, Pakistan, Iran | Turquie, Arabie Saoudite | **≈ 2 Mio** (travailleurs temporaires) | Asia‑ME |
 
 ##  Migration historique en carte {.scrollable}
 
@@ -780,7 +772,7 @@ dont **4.5%** Non-Européens
 
 ## Migration entre Nord et Sud
 
-![](image/institut_convergences_migration_Graph-1_nov-2018_image.png)
+![https://www.icmigrations.cnrs.fr/2018/11/14/0003/](image/institut_convergences_migration_Graph-1_nov-2018_image.png)
 
 ## Évolution de la migration d'asile {.scrollable}
 
@@ -823,19 +815,19 @@ dont **4.5%** Non-Européens
 
 ## Pays de provenances des principales routes migratoires
 
-![](image/IOM_DMT_Countries_or_areas_of_origin.png)
+![https://dtm.iom.int/sites/g/files/tmzbdl1461/files/reports/DTM_Mixed%20Migration%20Flows%20to%20Europe_Yearly_2024_1.pdf?iframe=true](image/IOM_DMT_Countries_or_areas_of_origin.png)
 
 ## Points d'arriver en Europe par route migratoire
 
-![](image/IOM_DMT_Arrivals_to_Europe.png)
+![https://dtm.iom.int/sites/g/files/tmzbdl1461/files/reports/DTM_Mixed%20Migration%20Flows%20to%20Europe_Yearly_2024_1.pdf?iframe=true](image/IOM_DMT_Arrivals_to_Europe.png)
 
 ## Nombre de demandeurs d'asile
 
-![](image/les_echos_demandes_asile.jpg)
+![https://www.lesechos.fr/monde/europe/union-europeenne-les-demandes-dasile-au-plus-haut-depuis-sept-ans-2079186](image/les_echos_demandes_asile.jpg)
 
 ## Nombre de demandeurs d'asile
 
-![](image/avenir_suisse_demandeurs_d_asile_fr.png)
+![https://www.avenir-suisse.ch/fr/comment-reussir-lintegration-des-refugies/](image/avenir_suisse_demandeurs_d_asile_fr.png)
 
 ## Évolution des arrivées et du nombre de décès
 
@@ -874,13 +866,13 @@ dont **4.5%** Non-Européens
 
 **Malgré un réglement Dublin commun, une divergence de pratiques**
 
-![](image/asile.ch_loterie_asile.png)
+![https://asile.ch/statistique/cartographier-les-migrations/loterie-de-l-asile/](image/asile.ch_loterie_asile.png)
 
 ## Le cas de l'Ukraine
 
 **24 février 2022**: Attaque Russe entraînant un grand mouvement de population
 
-![](image/migration_policy_center_eu_ukraine_solidarity.jpg)
+![https://migrationpolicycentre.eu/attitudes-towards-ukrainian-refugees-and-the-responses-of-european-governments/](image/migration_policy_center_eu_ukraine_solidarity.jpg)
 
 ## Migration ukrainienne contexte
 
@@ -930,7 +922,7 @@ dont **4.5%** Non-Européens
 
 **Les moyens sont disponibles, l'accueil est un choix**
 
-# Migrations invisibles & marginalisées  
+# Migrations invisibles et marginalisées  
 
 ## Contexte
 
@@ -950,13 +942,13 @@ La concentration sur un type de migration met de côté d'autres formes de mobil
 
 ::: {.column width="50%"}
 
-![](image/asile.ch_frontex_carte_biaisée.png)
+![https://asile.ch/2020/12/03/geoconfluences-relayer-les-circulations-migratoires-le-cas-des-refugies-syriens/](image/asile.ch_frontex_carte_biaisée.png)
 
 :::
 
 ::: {.column width="50%"}
 
-![](image/asile.ch_irakien_correct.png)
+![https://asile.ch/2020/12/03/geoconfluences-relayer-les-circulations-migratoires-le-cas-des-refugies-syriens/](image/asile.ch_irakien_correct.png)
 
 :::
 
@@ -968,11 +960,11 @@ La concentration sur un type de migration met de côté d'autres formes de mobil
 
 **Sans parler des déplacés internes**
 
-![](image/asile.ch_irakien_limitrophe.jpg)
+![https://asile.ch/statistique/cartographier-les-migrations/cartographie-la-migration-des-mineurs-non-accompagnes/](image/asile.ch_irakien_limitrophe.jpg)
 
 ## Mineurs non-accompagnés {auto-animate=true}
 
-![](image/des-migrants-arrives-a-Ceuta-le-18-mai-202.jpg)
+![https://www.bfmtv.com/international/ceuta-crise-migratoire-apres-l-arrivee-de-6000-migrants-sur-fond-de-tensions-diplomatiques-avec-le-maroc_AD-202105180336.html](image/des-migrants-arrives-a-Ceuta-le-18-mai-202.jpg)
 
 ## Mineurs non-accompagnés {auto-animate=true}
 
@@ -982,11 +974,11 @@ Le Mineur Non-accompagné est considéré comme **vulnérable** et bénéficie d
 
 ## Mineurs non-accompagnés {auto-animate=true}
 
-![](image/asile.ch_mineurs_non_accompagnés_parts.jpg)
+![https://asile.ch/statistique/cartographier-les-migrations/cartographie-la-migration-des-mineurs-non-accompagnes/](image/asile.ch_mineurs_non_accompagnés_parts.jpg)
 
 ## Mineurs non-accompagnés {auto-animate=true}
 
-![](image/asile.ch_rmna_parcours.jpg)
+![https://asile.ch/statistique/cartographier-les-migrations/cartographie-la-migration-des-mineurs-non-accompagnes/](image/asile.ch_rmna_parcours.jpg)
 
 ## Femmes migrantes
 
@@ -994,7 +986,7 @@ Le Mineur Non-accompagné est considéré comme **vulnérable** et bénéficie d
 
 ::: {.column width="50%"}
 
-![](image/lemonde_femme_migrante-04-01-06.avif)
+![https://www.lemonde.fr/europe/article/2015/10/12/sur-la-route-les-femmes-migrantes-plus-vulnerables_4787830_3214.html](image/lemonde_femme_migrante-04-01-06.avif)
 
 :::
 
@@ -1048,11 +1040,11 @@ Le Mineur Non-accompagné est considéré comme **vulnérable** et bénéficie d
 
 # Futur de la migration
 
-## Tendances politique, démographiques & économiques  
+## Tendances politique, démographiques et économiques  
 
-- **Vieillissement** : Europe ‑ population > 65 ans = 23 % (2030) → besoin accru de main‑d’œuvre qualifiée
-- **Brain‑drain/gain** : 12 % des diplômés africains émigrent (2022) ; potentiel de **remittances** ≈ US $ 850 M annuels (World Bank 2023)
-- **Populisme** : hausse de partis anti‑immigration (+ 8 % des votes en UE, 2022)
+- **Vieillissement** : Europe ‑ population > 65 ans → besoin accru de main‑d’oeuvre qualifiée
+- **Brain‑drain/gain** : <10% des diplômés africains émigrent (World Bank, 2024) ; potentiel de **remittances**
+- **Populisme** : hausse de partis anti‑immigration
 
 ## Points clés
 
@@ -1067,25 +1059,4 @@ Le Mineur Non-accompagné est considéré comme **vulnérable** et bénéficie d
 ## Sources {.scrollable}
 
 ::: {#refs}
-:::
-
-::: aside
-1. OECD, *Fiscal Effects of Migration*, 2022.  
-2. Brücker, C. & Zimmermann, K., *Economic Contributions of Migrants*, OECD Working Papers, 2022.  
-3. European Union Agency for Fundamental Rights, *Migration & Crime*, 2021.  
-4. IOM, *DTM Europe – Mixed Migration Flows to Europe 2024*, p. 6.  
-5. UN DESA, *International Migrant Stock 2023*, Table B.5.  
-6. IOM, *Missing Migrants Project*, 2024.  
-7. UN DESA, *International Migrant Stock 2022*, Africa & Asia sections.  
-8. IOM, *Missing Migrants Project – Mediterranean Deaths 2022*, p. 12.  
-9. OECD, *International Migration Outlook 2022*, Chapter 3.  
-10. World Bank, *Urbanization in Africa*, 2023.  
-11. Eurostat, *Migration and Asylum* database, 2023.  
-12. Italian Ministry of Interior, *Regolarizzazione 2022 – Impact Report*.  
-13. IPCC, *Special Report on Climate Change and Land*, 2022.  
-14. World Bank, *Climate‑Induced Migration Projections*, 2021.  
-15. Ministère de l’Économie et des Finances (France), *Rapport Fiscalité des Migrants*, 2022.  
-16. European Patent Office, *Patent Statistics by Inventor Origin*, 2020‑2022.  
-17. Mudde, C. & Kaltwasser, C., *Populism: A Very Short Introduction*, 2021.  
-18. Baldwin, R. & Evenett, S., *Migration Managed Commons*, 2020.  
 :::
